@@ -1,0 +1,1 @@
+"Fastq File Name"	"Sample ID"	"Secondary ID (ID to differenciate treatments, timepoint, dilution, etc)"	"Tissue type (Eg. Primary Tumor, Reference)"	"Tissue Origin (Eg. Cell-Free DNA, Kidney)"	"Material (Fresh Frozen or FFPE, OPTIONAL Field)"	UMIs (True or False)	"Library Type (WG:whole genome, WT:whole transcriptome, PG:plasma, EX:exome)"

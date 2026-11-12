@@ -1,0 +1,2050 @@
+# Built 2026-10-24 by scripts/build_tumor_antigen_reference.py
+# Sources: IEDB T-cell assays (human, positive, DOID:162 cancer); HPA testis tissue/group enriched + CT gene families; UniProt gene mapping
+gene	antigen_class	iedb_tcell_assays	iedb_references	mhc_classes	testis_restricted	top_diseases	uniprot	protein_name
+ABCA1	T-cell antigen	1	1	I	no	lung adenocarcinoma	O95477	Phospholipid-transporting ATPase ABCA1
+ABCA2	T-cell antigen	1	1		no	brain glioblastoma multiforme	Q9BZC7	ATP-binding cassette sub-family A member 2
+ABCA6	T-cell antigen	1	1	I	no	chronic lymphocytic leukemia	Q8N139	ATP-binding cassette sub-family A member 6
+ABCB5	T-cell antigen	2	1	I	no	melanoma	Q2M3G0	ATP-binding cassette sub-family B member 5
+ABCC12	Cancer-testis-like	0	0		yes			
+ABCC3	T-cell antigen	23	12	I	no	castration-resistant prostate carcinoma; adult hepatocellular carcinoma; colorectal cancer	O15438	ATP-binding cassette sub-family C member 3
+ABHD1	Cancer-testis-like	0	0		yes			
+ABHD16B	Cancer-testis-like	0	0		yes			
+ABHD17B	T-cell antigen	1	1	II	no	melanoma	Q5VST6	Alpha/beta hydrolase domain-containing protein 17B
+ABI2	T-cell antigen	3	1	I	no	ovarian cancer; prostate cancer	Q9NYB9	Abl interactor 2
+ACACB	T-cell antigen	1	1	I	no	skin melanoma	O00763	Acetyl-CoA carboxylase 2
+ACAN	T-cell antigen	1	1		no	brain glioblastoma multiforme	P16112	Aggrecan core protein
+ACBD3	T-cell antigen	3	1	I	no	pancreatic ductal adenocarcinoma	Q9H3P7	Golgi resident protein GCP60
+ACHE	T-cell antigen	1	1		no	pancreatic ductal adenocarcinoma	P22303	Acetylcholinesterase
+ACP3	T-cell antigen	97	25	I,II	no	prostate cancer; castration-resistant prostate carcinoma; colon cancer	P15309	Prostatic acid phosphatase
+ACP4	Cancer-testis-like	0	0		yes			
+ACR	Cancer-testis-like	0	0		yes			
+ACRBP	Cancer-testis T-cell antigen	1	1	I	yes	ovarian cancer	Q8NEB7	Acrosin-binding protein
+ACRV1	Cancer-testis-like	0	0		yes			
+ACSBG2	Cancer-testis-like	0	0		yes			
+ACTA2	T-cell antigen	2	1	I	no	hepatocellular carcinoma	P62736	Actin, aortic smooth muscle
+ACTG1	T-cell antigen	3	1	I	no	hepatocellular carcinoma	A0A804GS07	Actin gamma 1
+ACTL10	Cancer-testis-like	0	0		yes			
+ACTL7A	Cancer-testis-like	0	0		yes			
+ACTL7B	Cancer-testis-like	0	0		yes			
+ACTL8	Cancer-testis-like	0	0		yes			
+ACTL9	Cancer-testis-like	0	0		yes			
+ACTRT1	Cancer-testis-like	0	0		yes			
+ACTRT2	Cancer-testis-like	0	0		yes			
+ACTRT3	Cancer-testis-like	0	0		yes			
+ADAD1	Cancer-testis-like	0	0		yes			
+ADAD2	Cancer-testis-like	0	0		yes			
+ADAM17	T-cell antigen	11	3	I	no	ovarian cancer; prostate cancer; melanoma	P78536	Disintegrin and metalloproteinase domain-containing protein 17
+ADAM18	Cancer-testis-like	0	0		yes			
+ADAM2	Cancer-testis-like	0	0		yes			
+ADAM20	Cancer-testis-like	0	0		yes			
+ADAM21	Cancer-testis-like	0	0		yes			
+ADAM29	Cancer-testis-like	0	0		yes			
+ADAM30	Cancer-testis-like	0	0		yes			
+ADAM32	Cancer-testis-like	0	0		yes			
+ADAMTS2	T-cell antigen	3	1	I	no	brain glioblastoma multiforme	O95450	A disintegrin and metalloproteinase with thrombospondin motifs 2
+ADAR	T-cell antigen	1	1	II	no	colorectal cancer	P55265	Double-stranded RNA-specific adenosine deaminase
+ADCY10	Cancer-testis-like	0	0		yes			
+ADIG	Cancer-testis-like	0	0		yes			
+AFP	T-cell antigen	51	7	I,II	no	hepatocellular carcinoma; invasive ductal carcinoma	P02771	Alpha-fetoprotein
+AGBL5	Cancer-testis-like	0	0		yes			
+AGTPBP1	T-cell antigen	1	1		no	pancreatic ductal adenocarcinoma	Q9UPW5	Cytosolic carboxypeptidase 1
+AHNAK	T-cell antigen	1	1	I	no	urinary bladder cancer	Q09666	Neuroblast differentiation-associated protein AHNAK
+AHRR	Cancer-testis-like	0	0		yes			
+AIM2	T-cell antigen	3	1	II	no	glioblastoma	O14862	Interferon-inducible protein AIM2
+AK7	T-cell antigen	1	1	II	no	brain glioblastoma multiforme	Q96M32	Adenylate kinase 7
+AKAP14	Cancer-testis-like	0	0		yes			
+AKAP17A	T-cell antigen	1	1	II	no	glioblastoma	Q02040	A-kinase anchor protein 17A
+AKAP3	Cancer-testis-like	0	0		yes			
+AKAP4	Cancer-testis-like	0	0		yes			
+AKNAD1	Cancer-testis-like	0	0		yes			
+AKR1B15	T-cell antigen	1	1		no	tonsil squamous cell carcinoma	C9JRZ8	Aldo-keto reductase family 1 member B15
+AKR1C3	T-cell antigen	2	1	I	no	cholangiocarcinoma	P42330	Aldo-keto reductase family 1 member C3
+AKR1E2	Cancer-testis-like	0	0		yes			
+ALDH16A1	T-cell antigen	1	1	I	no	urinary bladder cancer	Q8IZ83	Aldehyde dehydrogenase family 16 member A1
+ALDH1A1	T-cell antigen	6	1	I	no	skin melanoma	P00352	Aldehyde dehydrogenase 1A1
+ALDOA	T-cell antigen	3	1	II	no	ovarian cancer; lung cancer	P04075	Fructose-bisphosphate aldolase A
+ALK	T-cell antigen	5	1	II	no	lymphoma	Q9UM73	ALK tyrosine kinase receptor
+ALLC	Cancer-testis-like	0	0		yes			
+ALYREF	T-cell antigen	1	1	I	no	skin melanoma	Q86V81	THO complex subunit 4
+AMACR	T-cell antigen	6	1	I	no	prostate cancer	Q9UHK6	Alpha-methylacyl-CoA racemase
+AMH	Cancer-testis-like	0	0		yes			
+ANHX	Cancer-testis-like	0	0		yes			
+ANKAR	Cancer-testis-like	0	0		yes			
+ANKRD12	T-cell antigen	1	1	I	no	lung adenocarcinoma	Q6UB98	Ankyrin repeat domain-containing protein 12
+ANKRD26	T-cell antigen	3	1	I,II	no	brain glioblastoma multiforme	Q9UPS8	Ankyrin repeat domain-containing protein 26
+ANKRD30B	Cancer-testis-like	0	0		yes			
+ANKRD30BL	Cancer-testis-like	0	0		yes			
+ANKRD31	Cancer-testis-like	0	0		yes			
+ANKRD36B	T-cell antigen	2	1	I	no	brain glioblastoma multiforme	Q8N2N9	Ankyrin repeat domain-containing protein 36B
+ANKRD36C	T-cell antigen	2	1		no	brain glioblastoma multiforme	Q5JPF3	Ankyrin repeat domain-containing protein 36C
+ANKRD40	T-cell antigen	2	1	I	no	glioblastoma	Q6AI12	Ankyrin repeat domain-containing protein 40
+ANKRD60	Cancer-testis-like	0	0		yes			
+ANKRD61	Cancer-testis-like	0	0		yes			
+ANKRD7	Cancer-testis-like	0	0		yes			
+ANO3	T-cell antigen	1	1	I	no	skin melanoma	Q9BYT9	Anoctamin-3
+ANO4	T-cell antigen	1	1	I	no	skin melanoma	Q32M45	Anoctamin-4
+ANO7	T-cell antigen	7	1	I	no	prostate cancer	Q6IWH7	Anoctamin-7
+ANP32A	T-cell antigen	1	1	I	no	urinary bladder cancer	P39687	Acidic leucine-rich nuclear phosphoprotein 32 family member A
+ANTXRL	Cancer-testis-like	0	0		yes			
+ANXA1	T-cell antigen	1	1	I	no	skin melanoma	P04083	Annexin A1
+APH1B	Cancer-testis-like	0	0		yes			
+API5	T-cell antigen	2	1		no	brain glioblastoma multiforme	Q9BZZ5	Apoptosis inhibitor 5
+APOBEC4	Cancer-testis-like	0	0		yes			
+APOL1	T-cell antigen	1	1	I	no	renal carcinoma	O14791-2	Isoform 2 of Apolipoprotein L1
+AQP7	T-cell antigen	3	1	II	no	pancreatic ductal adenocarcinoma	A0ACI8QP47,O14520	Aquaporin-7
+AR	T-cell antigen	20	1	I	no	prostate cancer	P10275	Androgen receptor
+ARFGEF2	T-cell antigen	1	1	I	no	skin melanoma	Q9Y6D5	Brefeldin A-inhibited guanine nucleotide-exchange protein 2
+ARG1	T-cell antigen	160	5	I,II	no	skin melanoma; breast cancer; ovarian cancer	P05089	Arginase-1
+ARHGAP28	Cancer-testis-like	0	0		yes			
+ARHGAP45	T-cell antigen	4	1	I	no	myeloid leukemia	K7EM85	Rho GTPase-activating protein 45
+ARHGEF10L	T-cell antigen	5	1	I	no	Merkel cell carcinoma; viral infectious disease	Q9HCE6	Rho guanine nucleotide exchange factor 10-like protein
+ARL13A	Cancer-testis-like	0	0		yes			
+ARL9	Cancer-testis-like	0	0		yes			
+ARMC12	Cancer-testis-like	0	0		yes			
+ARMC3	Cancer-testis-like	0	0		yes			
+ARMC7	T-cell antigen	2	1		no	pancreatic ductal adenocarcinoma	Q9H6L4,Q9H6L4-2	Armadillo repeat-containing protein 7
+ARMH2	Cancer-testis-like	0	0		yes			
+ARRDC5	Cancer-testis-like	0	0		yes			
+ART3	Cancer-testis-like	0	0		yes			
+ASB17	Cancer-testis-like	0	0		yes			
+ASPH	T-cell antigen	43	1	I,II	no	adult hepatocellular carcinoma	Q12797	Aspartyl/asparaginyl beta-hydroxylase
+ASPM	T-cell antigen	2	1	I	no	glioblastoma	Q8IZT6	Abnormal spindle-like microcephaly-associated protein
+ASZ1	Cancer-testis-like	0	0		yes			
+ATIC	T-cell antigen	3	3	I	no	melanoma; skin melanoma	P31939	Bifunctional purine biosynthesis protein ATIC
+ATP10D	T-cell antigen	1	1	I	no	melanoma	Q9P241	Phospholipid-transporting ATPase VD
+ATP1A3	T-cell antigen	2	1	I	no	brain glioblastoma multiforme	P13637-3	Isoform 3 of Sodium/potassium-transporting ATPase subunit alpha-3
+ATP2B3	T-cell antigen	2	1	I	no	lung adenocarcinoma	Q16720	Plasma membrane calcium-transporting ATPase 3
+ATP6AP1	T-cell antigen	13	1	I,II	no	melanoma	Q15904	V-type proton ATPase subunit S1
+ATP6V1E2	Cancer-testis-like	0	0		yes			
+ATP8B3	Cancer-testis T-cell antigen	2	1	I	yes	brain glioblastoma multiforme	O60423	Phospholipid-transporting ATPase IK
+ATXN2L	T-cell antigen	2	1	II	no	melanoma	Q8WWM7	Ataxin-2-like protein
+ATXN3L	Cancer-testis-like	0	0		yes			
+AUNIP	Cancer-testis-like	0	0		yes			
+AURKA	T-cell antigen	6	3	I,II	no	urinary bladder cancer; lung cancer; acute myeloid leukemia	O14965	Aurora kinase A
+AURKB	T-cell antigen	7	2	I	no	acute myeloid leukemia; lung cancer	Q96GD4	Aurora kinase B
+AURKC	Cancer-testis-like	0	0		yes			
+AUTS2	T-cell antigen	1	1		no	pancreatic ductal adenocarcinoma	Q8WXX7	Autism susceptibility gene 2 protein
+AXDND1	Cancer-testis-like	0	0		yes			
+AZIN2	Cancer-testis-like	0	0		yes			
+B4GALNT3	T-cell antigen	1	1	I	no	melanoma	Q6L9W6	Beta-1,4-N-acetylgalactosaminyltransferase 3
+BAG5	Cancer-testis-like	0	0		yes			
+BANF2	Cancer-testis-like	0	0		yes			
+BCAN	T-cell antigen	10	3	I,II	no	glioblastoma; malignant astrocytoma	Q96GW7	Brevican core protein
+BCAP31	T-cell antigen	2	2	I	no	ovarian cancer; skin melanoma	P51572	B-cell receptor-associated protein 31
+BCAR3	T-cell antigen	4	2	I	no	skin melanoma; melanoma	O75815	Breast cancer anti-estrogen resistance protein 3
+BCHE	T-cell antigen	1	1	I	no	skin melanoma	P06276	Cholinesterase
+BCL2	T-cell antigen	2	2	I	no	breast cancer; skin melanoma	P10415	Apoptosis regulator Bcl-2
+BCL2L1	T-cell antigen	5	2	I	no	skin melanoma	Q07817	Bcl-2-like protein 1
+BCL3	T-cell antigen	1	1	I	no	nodular malignant melanoma	P20749	B-cell lymphoma 3 protein
+BCOR	T-cell antigen	2	1	II	no	brain glioblastoma multiforme	Q6W2J9	BCL-6 corepressor
+BEND2	Cancer-testis-like	0	0		yes			
+BIN1	T-cell antigen	1	1	I	no	brain glioma	O00499	Myc box-dependent-interacting protein 1
+BIRC5	T-cell antigen	109	31	I,II	no	pancreatic cancer; colon cancer; pancreatic adenocarcinoma	O15392,O15392-2	Baculoviral IAP repeat-containing protein 5
+BIRC7	T-cell antigen	25	4	I,II	no	skin melanoma; melanoma	Q96CA5	Baculoviral IAP repeat-containing protein 7
+BLTP1	T-cell antigen	1	1		no	pancreatic ductal adenocarcinoma	Q2LD37	Bridge-like lipid transfer protein family member 1
+BOD1L2	Cancer-testis-like	0	0		yes			
+BOLL	Cancer-testis-like	0	0		yes			
+BPIFA3	Cancer-testis-like	0	0		yes			
+BPY2	Cancer-testis-like	0	0		yes			
+BPY2B	Cancer-testis-like	0	0		yes			
+BPY2C	Cancer-testis-like	0	0		yes			
+BRAF	T-cell antigen	13	4	I,II	no	papillary thyroid carcinoma; poorly differentiated thyroid carcinoma; skin melanoma	P15056	Serine/threonine-protein kinase B-raf
+BRCA2	T-cell antigen	1	1	I	no	melanoma	P51587	Breast cancer type 2 susceptibility protein
+BRDT	Cancer-testis-like	0	0		yes			
+BST2	T-cell antigen	34	4	I	no	melanoma; skin melanoma; multiple myeloma	Q10589	Bone marrow stromal antigen 2
+BTBD1	T-cell antigen	2	1	II	no	glioblastoma	Q9H0C5	BTB/POZ domain-containing protein 1
+BTBD18	Cancer-testis-like	0	0		yes			
+BTBD2	T-cell antigen	1	1	I	no	melanoma	Q9BX70	BTB/POZ domain-containing protein 2
+BTBD8	Cancer-testis-like	0	0		yes			
+BTG4	Cancer-testis-like	0	0		yes			
+BUB1	Cancer-testis-like	0	0		yes			
+C10orf120	Cancer-testis-like	0	0		yes			
+C10orf53	Cancer-testis-like	0	0		yes			
+C10orf62	Cancer-testis-like	0	0		yes			
+C10orf82	Cancer-testis-like	0	0		yes			
+C10orf90	Cancer-testis-like	0	0		yes			
+C11orf42	Cancer-testis-like	0	0		yes			
+C11orf65	Cancer-testis-like	0	0		yes			
+C11orf71	Cancer-testis-like	0	0		yes			
+C11orf94	Cancer-testis-like	0	0		yes			
+C11orf97	Cancer-testis-like	0	0		yes			
+C12orf40	Cancer-testis-like	0	0		yes			
+C12orf42	Cancer-testis-like	0	0		yes			
+C12orf50	Cancer-testis-like	0	0		yes			
+C12orf54	Cancer-testis-like	0	0		yes			
+C16orf78	Cancer-testis-like	0	0		yes			
+C16orf82	Cancer-testis-like	0	0		yes			
+C16orf86	Cancer-testis-like	0	0		yes			
+C16orf90	Cancer-testis-like	0	0		yes			
+C16orf92	Cancer-testis-like	0	0		yes			
+C16orf95	Cancer-testis-like	0	0		yes			
+C16orf96	Cancer-testis-like	0	0		yes			
+C17orf50	Cancer-testis-like	0	0		yes			
+C17orf97	Cancer-testis-like	0	0		yes			
+C17orf98	Cancer-testis-like	0	0		yes			
+C18orf54	Cancer-testis-like	0	0		yes			
+C18orf63	Cancer-testis-like	0	0		yes			
+C19orf67	Cancer-testis-like	0	0		yes			
+C19orf81	Cancer-testis-like	0	0		yes			
+C19orf84	Cancer-testis-like	0	0		yes			
+C1QTNF12	T-cell antigen	1	1	I	no	hepatocellular carcinoma	Q5T7M4	Adipolin
+C1orf100	Cancer-testis-like	0	0		yes			
+C1orf105	Cancer-testis-like	0	0		yes			
+C1orf146	Cancer-testis-like	0	0		yes			
+C1orf167	Cancer-testis-like	0	0		yes			
+C1orf185	Cancer-testis-like	0	0		yes			
+C1orf56	Cancer-testis-like	0	0		yes			
+C1orf94	Cancer-testis-like	0	0		yes			
+C20orf141	Cancer-testis-like	0	0		yes			
+C20orf144	Cancer-testis-like	0	0		yes			
+C20orf173	Cancer-testis-like	0	0		yes			
+C22orf23	Cancer-testis-like	0	0		yes			
+C22orf31	Cancer-testis-like	0	0		yes			
+C22orf42	Cancer-testis-like	0	0		yes			
+C2CD6	Cancer-testis-like	0	0		yes			
+C2orf16	Cancer-testis-like	0	0		yes			
+C2orf73	Cancer-testis-like	0	0		yes			
+C2orf78	Cancer-testis-like	0	0		yes			
+C3orf20	Cancer-testis-like	0	0		yes			
+C3orf22	Cancer-testis-like	0	0		yes			
+C3orf84	Cancer-testis-like	0	0		yes			
+C4orf17	Cancer-testis-like	0	0		yes			
+C4orf36	Cancer-testis-like	0	0		yes			
+C4orf45	Cancer-testis-like	0	0		yes			
+C4orf47	Cancer-testis-like	0	0		yes			
+C4orf51	Cancer-testis-like	0	0		yes			
+C5orf47	Cancer-testis-like	0	0		yes			
+C5orf49	Cancer-testis-like	0	0		yes			
+C5orf52	Cancer-testis-like	0	0		yes			
+C5orf58	Cancer-testis-like	0	0		yes			
+C6orf118	Cancer-testis-like	0	0		yes			
+C6orf132	T-cell antigen	1	1		no	pancreatic ductal adenocarcinoma	Q5T0Z8	Uncharacterized protein C6orf132
+C7orf31	Cancer-testis-like	0	0		yes			
+C8orf17	T-cell antigen	2	1	I	no	lung adenocarcinoma	Q9NRJ1	Protein MOST-1
+C8orf74	Cancer-testis-like	0	0		yes			
+C8orf89	Cancer-testis-like	0	0		yes			
+C8orf90	Cancer-testis-like	0	0		yes			
+C9orf131	Cancer-testis-like	0	0		yes			
+C9orf153	Cancer-testis-like	0	0		yes			
+C9orf24	Cancer-testis-like	0	0		yes			
+C9orf43	Cancer-testis-like	0	0		yes			
+C9orf50	Cancer-testis-like	0	0		yes			
+C9orf57	Cancer-testis T-cell antigen	3	1	I,II	yes	brain glioblastoma multiforme	Q5W0N0	Uncharacterized protein C9orf57
+CA9	T-cell antigen	3	2	I	no	lung cancer; myeloid leukemia	Q16790	Carbonic anhydrase 9
+CABS1	Cancer-testis-like	0	0		yes			
+CABYR	Cancer-testis-like	0	0		yes			
+CAGE1	Cancer-testis T-cell antigen	3	1	I	yes	colon adenocarcinoma	Q8TC20	Cancer-associated gene 1 protein
+CALCA	T-cell antigen	14	1	I	no	lung non-small cell carcinoma	P01258	Calcitonin
+CALR	T-cell antigen	1	1	I	no	acute myeloid leukemia	P27797	Calreticulin
+CALR3	Cancer-testis-like	0	0		yes			
+CAND2	T-cell antigen	1	1	I	no	skin melanoma	O75155	Cullin-associated NEDD8-dissociated protein 2
+CAPN11	Cancer-testis T-cell antigen	1	1		yes	brain glioblastoma multiforme	Q9UMQ6	Calpain-11
+CAPZA3	Cancer-testis-like	0	0		yes			
+CARS2	T-cell antigen	2	1	II	no	triple-negative breast cancer	Q9HA77	Probable cysteine--tRNA ligase, mitochondrial
+CATSPER1	Cancer-testis-like	0	0		yes			
+CATSPER3	Cancer-testis T-cell antigen	1	1	I	yes	hepatocellular carcinoma	Q86XQ3	Cation channel sperm-associated protein 3
+CATSPER4	Cancer-testis-like	0	0		yes			
+CATSPERD	Cancer-testis-like	0	0		yes			
+CATSPERE	Cancer-testis-like	0	0		yes			
+CATSPERG	Cancer-testis-like	0	0		yes			
+CATSPERZ	Cancer-testis-like	0	0		yes			
+CBLL2	Cancer-testis-like	0	0		yes			
+CBY2	Cancer-testis T-cell antigen	1	1		yes	pancreatic ductal adenocarcinoma	Q8NA61	Protein chibby homolog 2
+CBY3	Cancer-testis-like	0	0		yes			
+CCDC103	Cancer-testis-like	0	0		yes			
+CCDC105	Cancer-testis-like	0	0		yes			
+CCDC110	Cancer-testis-like	0	0		yes			
+CCDC116	Cancer-testis-like	0	0		yes			
+CCDC136	Cancer-testis-like	0	0		yes			
+CCDC157	Cancer-testis-like	0	0		yes			
+CCDC158	Cancer-testis-like	0	0		yes			
+CCDC166	Cancer-testis-like	0	0		yes			
+CCDC168	Cancer-testis-like	0	0		yes			
+CCDC169	Cancer-testis-like	0	0		yes			
+CCDC169-SOHLH2	Cancer-testis-like	0	0		yes			
+CCDC172	Cancer-testis-like	0	0		yes			
+CCDC179	Cancer-testis-like	0	0		yes			
+CCDC180	Cancer-testis-like	0	0		yes			
+CCDC182	Cancer-testis-like	0	0		yes			
+CCDC183	Cancer-testis-like	0	0		yes			
+CCDC185	Cancer-testis-like	0	0		yes			
+CCDC188	Cancer-testis-like	0	0		yes			
+CCDC192	Cancer-testis-like	0	0		yes			
+CCDC196	Cancer-testis-like	0	0		yes			
+CCDC197	Cancer-testis-like	0	0		yes			
+CCDC200	Cancer-testis-like	0	0		yes			
+CCDC27	Cancer-testis-like	0	0		yes			
+CCDC33	Cancer-testis-like	0	0		yes			
+CCDC38	Cancer-testis-like	0	0		yes			
+CCDC39	T-cell antigen	1	1	II	no	pancreatic ductal adenocarcinoma	Q9UFE4	Coiled-coil domain-containing protein 39
+CCDC42	Cancer-testis-like	0	0		yes			
+CCDC50	T-cell antigen	1	1	I	no	brain glioma	Q8IVM0	Coiled-coil domain-containing protein 50
+CCDC54	Cancer-testis-like	0	0		yes			
+CCDC62	Cancer-testis-like	0	0		yes			
+CCDC63	Cancer-testis-like	0	0		yes			
+CCDC7	Cancer-testis-like	0	0		yes			
+CCDC70	Cancer-testis-like	0	0		yes			
+CCDC73	Cancer-testis-like	0	0		yes			
+CCDC74A	T-cell antigen	1	1		no	pancreatic ductal adenocarcinoma	A0ACI8U9X9	Coiled-coil domain containing 74A
+CCDC83	Cancer-testis-like	0	0		yes			
+CCDC87	Cancer-testis-like	0	0		yes			
+CCDC96	Cancer-testis-like	0	0		yes			
+CCER1	Cancer-testis-like	0	0		yes			
+CCHCR1	Cancer-testis-like	0	0		yes			
+CCIN	Cancer-testis-like	0	0		yes			
+CCL22	T-cell antigen	14	1	I	no	melanoma; cancer	O00626	C-C motif chemokine 22
+CCL3	T-cell antigen	1	1	II	no	chronic lymphocytic leukemia	P10147	C-C motif chemokine 3
+CCNA1	T-cell antigen	21	2	I	no	acute myeloid leukemia; ovarian cancer	P78396	Cyclin-A1
+CCNB1	T-cell antigen	3	2	I	no	skin melanoma; melanoma	P14635	G2/mitotic-specific cyclin-B1
+CCNB2	Cancer-testis-like	0	0		yes			
+CCNB3	Cancer-testis-like	0	0		yes			
+CCND1	T-cell antigen	19	6	I,II	no	intrahepatic cholangiocarcinoma; clear cell renal cell carcinoma; bile duct adenocarcinoma	P24385	G1/S-specific cyclin-D1
+CCNE1	T-cell antigen	4	1	I	no	acute myeloid leukemia	P24864	G1/S-specific cyclin-E1
+CCNE2	T-cell antigen	4	1	I	no	acute myeloid leukemia	O96020	G1/S-specific cyclin-E2
+CCT6B	Cancer-testis-like	0	0		yes			
+CCT8L2	Cancer-testis-like	0	0		yes			
+CD109	T-cell antigen	5	1	I	no	Merkel cell carcinoma; viral infectious disease	Q6YHK3	CD109 antigen
+CD19	T-cell antigen	3	1	I	no	chronic lymphocytic leukemia	P15391	B-lymphocyte antigen CD19
+CD200R1L	Cancer-testis-like	0	0		yes			
+CD274	T-cell antigen	13	4	I,II	no	myeloproliferative neoplasm; melanoma; head and neck squamous cell carcinoma	Q9NZQ7	Programmed cell death 1 ligand 1
+CD55	T-cell antigen	1	1		no	brain glioblastoma multiforme	P08174-4	Isoform 4 of Complement decay-accelerating factor
+CD68	T-cell antigen	2	1		no	pancreatic ductal adenocarcinoma	P34810	Macrosialin
+CD74	T-cell antigen	6	1	I	no	colon adenocarcinoma	P04233	HLA class II histocompatibility antigen gamma chain
+CD9	T-cell antigen	4	1	I	no	skin melanoma	P21926	CD9 antigen
+CDC14C	Cancer-testis-like	0	0		yes			
+CDC25B	T-cell antigen	2	1	II	no	colorectal cancer	P30305	M-phase inducer phosphatase 2
+CDC27	T-cell antigen	4	2	I,II	no	melanoma	P30260	Cell division cycle protein 27 homolog
+CDC42	T-cell antigen	1	1	I	no	urinary bladder cancer	P60953	Cell division control protein 42 homolog
+CDC45	Cancer-testis-like	0	0		yes			
+CDC5L	T-cell antigen	1	1	I	no	skin melanoma	Q99459	Cell division cycle 5-like protein
+CDCA2	Cancer-testis-like	0	0		yes			
+CDCA5	Cancer-testis-like	0	0		yes			
+CDCA7L	T-cell antigen	1	1	I	no	chronic lymphocytic leukemia	Q96GN5	Cell division cycle-associated 7-like protein
+CDH24	T-cell antigen	2	1	I	no	brain glioblastoma multiforme	Q86UP0	Cadherin-24
+CDH3	T-cell antigen	7	3	I	no	intrahepatic gall duct cancer; pancreatic cancer; skin melanoma	P22223	Cadherin-3
+CDK4	T-cell antigen	4	2	I	no	myeloid leukemia; skin melanoma	P11802	Cyclin-dependent kinase 4
+CDK5RAP2	T-cell antigen	1	1		no	pancreatic ductal adenocarcinoma	Q96SN8	CDK5 regulatory subunit-associated protein 2
+CDK6	T-cell antigen	2	1	I	no	glioblastoma	Q00534	Cyclin-dependent kinase 6
+CDKL3	T-cell antigen	1	1	II	no	pancreatic ductal adenocarcinoma	Q8IVW4	Cyclin-dependent kinase-like 3
+CDKN1A	T-cell antigen	5	3	I	no	skin melanoma; urinary bladder cancer; melanoma	P38936	Cyclin-dependent kinase inhibitor 1
+CDKN3	Cancer-testis-like	0	0		yes			
+CDRT15	Cancer-testis-like	0	0		yes			
+CDRT15L2	Cancer-testis-like	0	0		yes			
+CDY1	Cancer-testis-like	0	0		yes			
+CDY1B	Cancer-testis-like	0	0		yes			
+CDY2A	Cancer-testis-like	0	0		yes			
+CEACAM18	T-cell antigen	1	1		no	pancreatic ductal adenocarcinoma	A8MTB9	Cell adhesion molecule CEACAM18
+CEACAM5	T-cell antigen	24	7	I	no	breast cancer; pancreatic adenocarcinoma; lung cancer	P06731	Cell adhesion molecule CEACAM5
+CELSR1	T-cell antigen	1	1	I	no	chronic lymphocytic leukemia	Q9NYQ6	Cadherin EGF LAG seven-pass G-type receptor 1
+CELSR3	T-cell antigen	1	1		no	pancreatic ductal adenocarcinoma	Q9NYQ7	Cadherin EGF LAG seven-pass G-type receptor 3
+CEND1	T-cell antigen	5	1	I	no	brain glioma	Q8N111	Cell cycle exit and neuronal differentiation protein 1
+CENPF	Cancer-testis-like	0	0		yes			
+CENPS-CORT	Cancer-testis-like	0	0		yes			
+CENPVL3	Cancer-testis-like	0	0		yes			
+CEP164	T-cell antigen	3	2		no	brain glioblastoma multiforme; pancreatic ductal adenocarcinoma	Q9UPV0	Centrosomal protein of 164 kDa
+CEP170	Cancer-testis-like	0	0		yes			
+CEP295NL	Cancer-testis-like	0	0		yes			
+CEP55	T-cell antigen	5	2	I	no	breast ductal carcinoma; melanoma	Q53EZ4	Centrosomal protein of 55 kDa
+CETN1	Cancer-testis-like	0	0		yes			
+CFAP107	Cancer-testis-like	0	0		yes			
+CFAP141	Cancer-testis-like	0	0		yes			
+CFAP161	Cancer-testis-like	0	0		yes			
+CFAP206	Cancer-testis-like	0	0		yes			
+CFAP20DC	Cancer-testis-like	0	0		yes			
+CFAP210	Cancer-testis-like	0	0		yes			
+CFAP276	Cancer-testis-like	0	0		yes			
+CFAP299	Cancer-testis-like	0	0		yes			
+CFAP43	Cancer-testis-like	0	0		yes			
+CFAP45	Cancer-testis-like	0	0		yes			
+CFAP53	Cancer-testis-like	0	0		yes			
+CFAP57	Cancer-testis-like	0	0		yes			
+CFAP65	T-cell antigen	1	1		no	pancreatic ductal adenocarcinoma	Q6ZU64	Cilia- and flagella-associated protein 65
+CFAP77	Cancer-testis-like	0	0		yes			
+CFAP92	Cancer-testis-like	0	0		yes			
+CFAP97D1	Cancer-testis-like	0	0		yes			
+CFAP99	Cancer-testis-like	0	0		yes			
+CFTR	T-cell antigen	1	1	II	no	pancreatic ductal adenocarcinoma	P13569	Cystic fibrosis transmembrane conductance regulator
+CHAT	T-cell antigen	1	1		no	brain glioblastoma multiforme	P28329	Choline O-acetyltransferase
+CHCT1	Cancer-testis-like	0	0		yes			
+CHD3	T-cell antigen	1	1	I	no	hepatocellular carcinoma	Q12873	ATP-dependent chromatin remodeler CHD3
+CHD4	T-cell antigen	1	1	I	no	ovarian cancer	Q14839	ATP-dependent chromatin remodeler CHD4
+CHD5	Cancer-testis-like	0	0		yes			
+CHD6	T-cell antigen	1	1	II	no	glioblastoma	Q8TD26	ATP-dependent chromatin remodeler CHD6
+CHD7	T-cell antigen	1	1	II	no	glioblastoma	Q9P2D1	ATP-dependent chromatin remodeler CHD7
+CHI3L2	T-cell antigen	4	1	I	no	glioblastoma	Q15782	Chitinase-3-like protein 2
+CHRNB3	Cancer-testis-like	0	0		yes			
+CHST13	Cancer-testis-like	0	0		yes			
+CHST2	T-cell antigen	1	1	II	no	chronic lymphocytic leukemia	Q9Y4C5	Carbohydrate sulfotransferase 2
+CIB4	Cancer-testis-like	0	0		yes			
+CKS2	T-cell antigen	3	1	I	no	pancreatic ductal adenocarcinoma	P33552	Cyclin-dependent kinases regulatory subunit 2
+CLCNKA	T-cell antigen	2	1	I	no	brain glioblastoma multiforme	P51800	Chloride channel protein ClC-Ka
+CLDN11	Cancer-testis-like	0	0		yes			
+CLDN18	T-cell antigen	23	1	I	no	stomach cancer	P56856	Claudin-18
+CLDND2	Cancer-testis-like	0	0		yes			
+CLEC17A	T-cell antigen	1	1	I	no	chronic lymphocytic leukemia	Q6ZS10	C-type lectin domain family 17, member A
+CLEC18C	T-cell antigen	3	1	I,II	no	brain glioblastoma multiforme	Q8NCF0	C-type lectin domain family 18 member C
+CLPB	Cancer-testis-like	0	0		yes			
+CLPP	T-cell antigen	1	1	I	no	skin melanoma	Q16740	ATP-dependent Clp protease proteolytic subunit, mitochondrial
+CLTC	T-cell antigen	1	1	I	no	skin melanoma	Q00610	Clathrin heavy chain 1
+CLTCL1	Cancer-testis-like	0	0		yes			
+CLU	T-cell antigen	1	1	I	no	glioblastoma	P10909	Clusterin
+CLXN	Cancer-testis-like	0	0		yes			
+CMTM1	Cancer-testis-like	0	0		yes			
+CMTM2	Cancer-testis-like	0	0		yes			
+CNBD1	Cancer-testis-like	0	0		yes			
+CNGA4	Cancer-testis-like	0	0		yes			
+CNTD1	Cancer-testis-like	0	0		yes			
+CNTF	T-cell antigen	1	1	II	no	glioblastoma	P26441	Ciliary neurotrophic factor
+CNTN1	T-cell antigen	6	1	I	no	brain glioma	Q12860	Contactin-1
+CNTN3	T-cell antigen	1	1		no	pancreatic ductal adenocarcinoma	Q9P232	Contactin-3
+CNTN6	T-cell antigen	1	1		no	brain glioblastoma multiforme	Q9UQ52	Contactin-6
+COA3	T-cell antigen	1	1	I	no	skin melanoma	Q9Y2R0	Cytochrome c oxidase assembly factor 3 homolog, mitochondrial
+COA6	T-cell antigen	1	1		no	collecting duct carcinoma	Q5JTJ3	Cytochrome c oxidase assembly factor 6 homolog
+COG7	T-cell antigen	6	1	I	no	melanoma	P83436	Conserved oligomeric Golgi complex subunit 7
+COIL	Cancer-testis-like	0	0		yes			
+COL11A2	Cancer-testis T-cell antigen	2	1	I	yes	brain glioblastoma multiforme	P13942	Collagen alpha-2(XI) chain
+COL18A1	T-cell antigen	1	1		no	pancreatic ductal adenocarcinoma	P39060	Collagen alpha-1(XVIII) chain
+COL20A1	Cancer-testis-like	0	0		yes			
+COL6A1	T-cell antigen	2	1	I	no	pancreatic ductal adenocarcinoma	P12109	Collagen alpha-1(VI) chain
+COL6A3	T-cell antigen	3	1	I	no	pancreatic ductal adenocarcinoma	P12111	Collagen alpha-3(VI) chain
+COTL1	T-cell antigen	2	1	I	no	skin melanoma	Q14019	Coactosin-like protein
+COX18	T-cell antigen	1	1	II	no	glioblastoma	Q8N8Q8	Cytochrome c oxidase assembly protein COX18, mitochondrial
+COX6B2	Cancer-testis-like	0	0		yes			
+COX7B2	Cancer-testis-like	0	0		yes			
+COX8C	Cancer-testis-like	0	0		yes			
+CPA5	Cancer-testis-like	0	0		yes			
+CPAMD8	T-cell antigen	5	1	I	no	Merkel cell carcinoma; viral infectious disease	Q8IZJ3	C3 and PZP-like alpha-2-macroglobulin domain-containing protein 8
+CPSF1	T-cell antigen	2	2	I	no	melanoma; skin melanoma	Q10570	Cleavage and polyadenylation specificity factor subunit 1
+CPT1B	Cancer-testis-like	0	0		yes			
+CPXCR1	Cancer-testis-like	0	0		yes			
+CRB1	T-cell antigen	1	1	I	no	glioblastoma	P82279	Protein crumbs homolog 1
+CREBBP	T-cell antigen	2	1	I	no	follicular lymphoma	Q92793	CREB-binding protein
+CRISP2	Cancer-testis-like	0	0		yes			
+CRISPLD1	T-cell antigen	6	1	I	no	colon adenocarcinoma	Q9H336	Cysteine-rich secretory protein LCCL domain-containing 1
+CRK	T-cell antigen	5	1	I	no	brain glioma	P46108	Adapter molecule crk
+CRNKL1	T-cell antigen	1	1	I	no	skin melanoma	Q9BZJ0	Crooked neck-like protein 1
+CRYBA4	Cancer-testis-like	0	0		yes			
+CRYGC	Cancer-testis-like	0	0		yes			
+CSAG1	Cancer-testis-like	0	0		yes			
+CSAG2	Cancer-testis T-cell antigen	1	1	I	yes	skin melanoma	Q9Y5P2	Chondrosarcoma-associated gene 2/3 protein
+CSAG3	Cancer-testis T-cell antigen	1	1	I	yes	skin melanoma	Q9Y5P2	Chondrosarcoma-associated gene 2/3 protein
+CSF1R	T-cell antigen	1	1	I	no	glioblastoma	P07333	Macrophage colony-stimulating factor 1 receptor
+CSMD1	Cancer-testis-like	0	0		yes			
+CSNK1A1L	Cancer-testis-like	0	0		yes			
+CSNKA2IP	Cancer-testis-like	0	0		yes			
+CSPG4	T-cell antigen	9	5	I,II	no	glioblastoma; melanoma; malignant astrocytoma	Q6UVK1	Chondroitin sulfate proteoglycan 4
+CSRP2	T-cell antigen	2	1	I	no	glioblastoma	Q16527	Cysteine and glycine-rich protein 2
+CST8	Cancer-testis-like	0	0		yes			
+CST9L	Cancer-testis-like	0	0		yes			
+CSTL1	Cancer-testis-like	0	0		yes			
+CT45A1	Cancer-testis-like	0	0		yes			
+CT45A10	Cancer-testis T-cell antigen	1	1	I	yes	melanoma	P0DMU9	Cancer/testis antigen family 45 member A10
+CT45A3	Cancer-testis-like	0	0		yes			
+CT47A12	Cancer-testis-like	0	0		yes			
+CT47B1	Cancer-testis-like	0	0		yes			
+CT55	Cancer-testis T-cell antigen	1	1	I	yes	chronic myeloid leukemia	Q8WUE5	Cancer/testis antigen 55
+CT83	Cancer-testis T-cell antigen	39	5	I	yes	cervix carcinoma; squamous cell carcinoma; cervical adenocarcinoma	Q5H943	Kita-kyushu lung cancer antigen 1
+CTAG1A	Cancer-testis T-cell antigen	745	86	I,II	yes	skin melanoma; melanoma; ovarian cancer	P78358	Cancer/testis antigen 1
+CTAG1B	Cancer-testis T-cell antigen	745	86	I,II	yes	skin melanoma; melanoma; ovarian cancer	P78358	Cancer/testis antigen 1
+CTAG2	Cancer-testis T-cell antigen	25	5	I	yes	skin melanoma; gastric adenocarcinoma; melanoma	O75638,O75638-2	Isoform LAGE-1A of Cancer/testis antigen 2
+CTAGE1	Cancer-testis-like	0	0		yes			
+CTAGE15	Cancer-testis-like	0	0		yes			
+CTAGE6	Cancer-testis-like	0	0		yes			
+CTAGE9	Cancer-testis-like	0	0		yes			
+CTBP1	T-cell antigen	6	1	II	no	bladder urothelial carcinoma	Q13363	C-terminal-binding protein 1
+CTCFL	Cancer-testis T-cell antigen	1	1		yes	colorectal cancer	Q8NI51	Transcriptional repressor CTCFL
+CTDP1	T-cell antigen	1	1	I	no	chronic lymphocytic leukemia	Q9Y5B0	RNA polymerase II subunit A C-terminal domain phosphatase
+CTNNB1	T-cell antigen	1	1	I	no	melanoma	P35222	Catenin beta-1
+CTNNBIP1	T-cell antigen	1	1	I	no	pancreatic ductal adenocarcinoma	Q9NSA3	Beta-catenin-interacting protein 1
+CTSG	T-cell antigen	3	1	I	no	acute myeloid leukemia	P08311	Cathepsin G
+CTSH	T-cell antigen	1	1	II	no	chronic lymphocytic leukemia	P09668	Pro-cathepsin H
+CXorf49	Cancer-testis-like	0	0		yes			
+CXorf49B	Cancer-testis-like	0	0		yes			
+CXorf51A	Cancer-testis-like	0	0		yes			
+CXorf51B	Cancer-testis-like	0	0		yes			
+CXorf58	Cancer-testis-like	0	0		yes			
+CXorf65	Cancer-testis-like	0	0		yes			
+CXorf66	Cancer-testis-like	0	0		yes			
+CYLC1	Cancer-testis-like	0	0		yes			
+CYLC2	Cancer-testis-like	0	0		yes			
+CYP19A1	T-cell antigen	14	1	I	no	breast cancer	P11511	Aromatase
+CYP7B1	T-cell antigen	1	1		no	pancreatic ductal adenocarcinoma	O75881	Cytochrome P450 7B1
+DAPK2	T-cell antigen	3	1	I	no	healthy; multiple myeloma	Q9UIK4	Death-associated protein kinase 2
+DAW1	Cancer-testis-like	0	0		yes			
+DAZ1	Cancer-testis-like	0	0		yes			
+DAZ2	Cancer-testis-like	0	0		yes			
+DAZ4	Cancer-testis-like	0	0		yes			
+DAZL	Cancer-testis-like	0	0		yes			
+DBF4	Cancer-testis-like	0	0		yes			
+DCAF4L1	Cancer-testis-like	0	0		yes			
+DCAF4L2	Cancer-testis-like	0	0		yes			
+DCAF8L2	Cancer-testis-like	0	0		yes			
+DCAKD	T-cell antigen	1	1	I	no	skin melanoma	Q8WVC6	Dephospho-CoA kinase domain-containing protein
+DCHS1	T-cell antigen	1	1		no	pancreatic ductal adenocarcinoma	Q96JQ0	Protocadherin-16
+DCLK2	T-cell antigen	2	1	I	no	glioblastoma	Q8N568	Serine/threonine-protein kinase DCLK2
+DCST1	Cancer-testis-like	0	0		yes			
+DCT	T-cell antigen	30	9	I,II	no	skin melanoma; melanoma; glioblastoma	P40126,P40126-2	L-dopachrome tautomerase
+DCUN1D1	Cancer-testis-like	0	0		yes			
+DDB1	T-cell antigen	1	1	I	no	urinary bladder cancer	Q16531	DNA damage-binding protein 1
+DDI1	Cancer-testis-like	0	0		yes			
+DDR1	T-cell antigen	8	1	I	no	prostate cancer; breast cancer; ovarian cancer	Q08345	Epithelial discoidin domain-containing receptor 1
+DDR2	T-cell antigen	1	1	I	no	lung non-small cell carcinoma	Q16832	Discoidin domain-containing receptor 2
+DDX11	T-cell antigen	1	1		no	pancreatic ductal adenocarcinoma	A0ACI8UPK3	DEAD/H-box helicase 11
+DDX20	Cancer-testis-like	0	0		yes			
+DDX21	T-cell antigen	1	1	I	no	skin melanoma	Q9NR30	Nucleolar RNA helicase 2
+DDX3Y	T-cell antigen	1	1	II	no	cancer	O15523	ATP-dependent RNA helicase DDX3Y
+DDX4	Cancer-testis-like	0	0		yes			
+DDX43	Cancer-testis-like	0	0		yes			
+DDX5	T-cell antigen	1	1	I	no	myeloid leukemia	P17844	Probable ATP-dependent RNA helicase DDX5
+DDX53	Cancer-testis-like	0	0		yes			
+DEFA1	T-cell antigen	1	1	I	no	colorectal adenocarcinoma	P59665	Neutrophil defensin 1
+DEFA1B	T-cell antigen	1	1	I	no	colorectal adenocarcinoma	P59665	Neutrophil defensin 1
+DEFB123	Cancer-testis-like	0	0		yes			
+DEPDC1	T-cell antigen	25	9	I,II	no	bladder urothelial carcinoma; extrahepatic bile duct carcinoma; esophageal cancer	Q5TB30	DEP domain-containing protein 1A
+DEPDC7	Cancer-testis-like	0	0		yes			
+DEUP1	Cancer-testis-like	0	0		yes			
+DHH	Cancer-testis-like	0	0		yes			
+DHX36	T-cell antigen	1	1		no	pancreatic ductal adenocarcinoma	Q9H2U1	ATP-dependent DNA/RNA helicase DHX36
+DHX37	T-cell antigen	1	1		no	pancreatic ductal adenocarcinoma	Q8IY37	Probable ATP-dependent RNA helicase DHX37
+DIAPH1	T-cell antigen	1	1	I	no	melanoma	O60610	Protein diaphanous homolog 1
+DISP3	Cancer-testis-like	0	0		yes			
+DKKL1	Cancer-testis-like	0	0		yes			
+DLEC1	T-cell antigen	2	1	I,II	no	stomach cancer	Q9Y238	Deleted in lung and esophageal cancer protein 1
+DLGAP5	Cancer-testis-like	0	0		yes			
+DMRT1	Cancer-testis-like	0	0		yes			
+DMRTB1	Cancer-testis-like	0	0		yes			
+DMRTC2	Cancer-testis-like	0	0		yes			
+DMXL1	T-cell antigen	4	1	I	no	chronic lymphocytic leukemia	Q9Y485	DmX-like protein 1
+DNAAF2	T-cell antigen	1	1	I	no	ovarian cancer	Q9NVR5	Protein kintoun
+DNAAF3	Cancer-testis-like	0	0		yes			
+DNAAF5	T-cell antigen	1	1		no	lung non-small cell carcinoma	Q86Y56	Dynein axonemal assembly factor 5
+DNAAF6	Cancer-testis-like	0	0		yes			
+DNAAF8	Cancer-testis-like	0	0		yes			
+DNAAF9	T-cell antigen	5	1	I	no	Merkel cell carcinoma; viral infectious disease	Q5TEA3	Dynein axonemal assembly factor 9
+DNAH12	Cancer-testis-like	0	0		yes			
+DNAH17	Cancer-testis-like	0	0		yes			
+DNAH2	Cancer-testis-like	0	0		yes			
+DNAH3	Cancer-testis-like	0	0		yes			
+DNAI1	Cancer-testis-like	0	0		yes			
+DNAI2	Cancer-testis-like	0	0		yes			
+DNAI3	Cancer-testis-like	0	0		yes			
+DNAJA1	T-cell antigen	5	1	I	no	Merkel cell carcinoma; viral infectious disease	P31689	DnaJ homolog subfamily A member 1
+DNAJB13	Cancer-testis-like	0	0		yes			
+DNAJB7	Cancer-testis-like	0	0		yes			
+DNAJB8	Cancer-testis-like	0	0		yes			
+DNAJC18	Cancer-testis-like	0	0		yes			
+DNAJC2	T-cell antigen	1	1	I	no	skin melanoma	Q99543	DnaJ homolog subfamily C member 2
+DNAJC5B	Cancer-testis-like	0	0		yes			
+DNAJC5G	Cancer-testis-like	0	0		yes			
+DND1	Cancer-testis-like	0	0		yes			
+DNMBP	T-cell antigen	1	1	I	no	chronic lymphocytic leukemia	Q6XZF7	Dynamin-binding protein
+DNMT3A	T-cell antigen	2	2	II	no	melanoma; glioblastoma	Q9Y6K1	DNA (cytosine-5)-methyltransferase 3A
+DOC2A	Cancer-testis-like	0	0		yes			
+DOCK3	T-cell antigen	2	1	II	no	pancreatic ductal adenocarcinoma	Q8IZD9	Dedicator of cytokinesis protein 3
+DOCK7	T-cell antigen	2	1	I	no	glioblastoma	Q96N67	Dedicator of cytokinesis protein 7
+DOT1L	T-cell antigen	1	1	II	no	glioblastoma	Q8TEK3	Histone-lysine N-methyltransferase, H3 lysine-79 specific
+DPEP2NB	Cancer-testis-like	0	0		yes			
+DPEP3	Cancer-testis-like	0	0		yes			
+DPPA2	Cancer-testis-like	0	0		yes			
+DPYSL4	T-cell antigen	1	1	I	no	glioblastoma	Q5T0Q6	Dihydropyrimidinase like 4
+DRC1	Cancer-testis-like	0	0		yes			
+DRC10	T-cell antigen	1	1	I	no	hepatocellular carcinoma	Q96DY2	Dynein regulatory complex subunit 10
+DRC7	Cancer-testis-like	0	0		yes			
+DRG1	T-cell antigen	5	1	II	no	skin melanoma	Q9Y295	Developmentally-regulated GTP-binding protein 1
+DSE	T-cell antigen	54	17	I	no	castration-resistant prostate carcinoma; prostate cancer; prostate adenocarcinoma	Q9UL01	Dermatan-sulfate epimerase
+DSG3	T-cell antigen	1	1	I	no	urinary bladder cancer	P32926	Desmoglein-3
+DTL	Cancer-testis-like	0	0		yes			
+DTNA	T-cell antigen	1	1	I	no	brain glioma	Q9Y4J8	Dystrobrevin alpha
+DTX3L	T-cell antigen	1	1	I	no	skin melanoma	Q8TDB6	E3 ubiquitin-protein ligase DTX3L
+DUSP12	T-cell antigen	1	1	I	no	skin melanoma	Q9UNI6	Dual specificity protein phosphatase 12
+DUSP15	Cancer-testis-like	0	0		yes			
+DUSP21	Cancer-testis-like	0	0		yes			
+DYDC1	Cancer-testis-like	0	0		yes			
+DYNLRB1	T-cell antigen	2	1	I	no	pancreatic ductal adenocarcinoma	Q9NP97	Dynein light chain roadblock-type 1
+DYNLRB2	Cancer-testis-like	0	0		yes			
+DYNLT2	Cancer-testis-like	0	0		yes			
+EBAG9	T-cell antigen	4	1	II	no	colorectal cancer	O00559	Receptor-binding cancer antigen expressed on SiSo cells
+EBF4	T-cell antigen	1	1	I	no	ovarian cancer	Q9BQW3	Transcription factor COE4
+EBLN1	Cancer-testis-like	0	0		yes			
+EDIL3	T-cell antigen	1	1	II	no	melanoma	O43854	EGF-like repeat and discoidin I-like domain-containing protein 3
+EDNRB	T-cell antigen	1	1		no	pancreatic ductal adenocarcinoma	P24530	Endothelin receptor type B
+EEF1A1	T-cell antigen	1	1	I	no	skin melanoma	P68104	Elongation factor 1-alpha 1
+EEF2	T-cell antigen	9	2	I	no	colon carcinoma; brain glioblastoma multiforme	P13639	Elongation factor 2
+EFCAB10	Cancer-testis-like	0	0		yes			
+EFCAB13	T-cell antigen	1	1		no	collecting duct carcinoma	Q8IY85	EF-hand calcium-binding domain-containing protein 13
+EFCAB3	Cancer-testis-like	0	0		yes			
+EFCAB5	Cancer-testis-like	0	0		yes			
+EFCAB6	Cancer-testis-like	0	0		yes			
+EFCAB8	Cancer-testis-like	0	0		yes			
+EFCAB9	Cancer-testis-like	0	0		yes			
+EFS	T-cell antigen	2	1		no	pancreatic ductal adenocarcinoma	O43281	Embryonal Fyn-associated substrate
+EGFR	T-cell antigen	17	13	I,II	no	castration-resistant prostate carcinoma; esophageal cancer; colorectal cancer	P00533	Epidermal growth factor receptor
+EHD2	T-cell antigen	1	1	I	no	melanoma	Q9NZN4	EH domain-containing protein 2
+EHMT1	T-cell antigen	1	1	I	no	chronic lymphocytic leukemia	Q9H9B1	Histone-lysine N-methyltransferase EHMT1
+EID3	Cancer-testis-like	0	0		yes			
+EIF3M	T-cell antigen	1	1	II	no	melanoma	Q7L2H7	Eukaryotic translation initiation factor 3 subunit M
+EIF4E	T-cell antigen	2	1	I	no	glioblastoma	P06730	Eukaryotic translation initiation factor 4E
+EIF4EBP1	T-cell antigen	1	1	I	no	prostate adenocarcinoma	Q13541	Eukaryotic translation initiation factor 4E-binding protein 1
+EIF5AL1	Cancer-testis-like	0	0		yes			
+ELAC2	T-cell antigen	1	1	I	no	skin melanoma	Q9BQ52	Zinc phosphodiesterase ELAC protein 2
+ELANE	T-cell antigen	4	3	I	no	multiple myeloma; chronic myeloid leukemia; chronic myelogenous leukemia, BCR-ABL1 positive	P08246	Neutrophil elastase
+ELAVL2	Cancer-testis-like	0	0		yes			
+ELAVL4	T-cell antigen	5	1	I	no	central nervous system cancer	P26378	ELAV-like protein 4
+ELMO2	T-cell antigen	1	1		no	brain glioblastoma multiforme	Q96JJ3	Engulfment and cell motility protein 2
+ELOA2	Cancer-testis-like	0	0		yes			
+ELOC	T-cell antigen	1	1	I	no	skin melanoma	Q15369	Elongin-C
+ELOVL1	T-cell antigen	4	1	I	no	pancreatic ductal adenocarcinoma	Q9BW60	Very long chain fatty acid elongase 1
+ELOVL2	T-cell antigen	2	1	I	no	glioblastoma	Q9NXB9	Very long chain fatty acid elongase 2
+ENAH	T-cell antigen	1	1		no	collecting duct carcinoma	Q8N8S7	Protein enabled homolog
+ENO1	T-cell antigen	2	1	II	no	ovarian cancer	P06733	Alpha-enolase
+ENSG00000198211	Cancer-testis-like	0	0		yes			
+ENSG00000230707	Cancer-testis-like	0	0		yes			
+ENSG00000239395	Cancer-testis-like	0	0		yes			
+ENSG00000241690	Cancer-testis-like	0	0		yes			
+ENSG00000250803	Cancer-testis-like	0	0		yes			
+ENSG00000251569	Cancer-testis-like	0	0		yes			
+ENSG00000257390	Cancer-testis-like	0	0		yes			
+ENSG00000261341	Cancer-testis-like	0	0		yes			
+ENSG00000268655	Cancer-testis-like	0	0		yes			
+ENSG00000272297	Cancer-testis-like	0	0		yes			
+ENSG00000272980	Cancer-testis-like	0	0		yes			
+ENSG00000273291	Cancer-testis-like	0	0		yes			
+ENSG00000274175	Cancer-testis-like	0	0		yes			
+ENSG00000276017	Cancer-testis-like	0	0		yes			
+ENSG00000277535	Cancer-testis-like	0	0		yes			
+ENSG00000277630	Cancer-testis-like	0	0		yes			
+ENSG00000278633	Cancer-testis-like	0	0		yes			
+ENSG00000278646	Cancer-testis-like	0	0		yes			
+ENSG00000281613	Cancer-testis-like	0	0		yes			
+ENSG00000283205	Cancer-testis-like	0	0		yes			
+ENSG00000283599	Cancer-testis-like	0	0		yes			
+ENSG00000284188	Cancer-testis-like	0	0		yes			
+ENSG00000284209	Cancer-testis-like	0	0		yes			
+ENSG00000285566	Cancer-testis-like	0	0		yes			
+ENSG00000285953	Cancer-testis-like	0	0		yes			
+ENSG00000288635	Cancer-testis-like	0	0		yes			
+ENSG00000289722	Cancer-testis-like	0	0		yes			
+ENSG00000290217	Cancer-testis-like	0	0		yes			
+ENTHD1	Cancer-testis-like	0	0		yes			
+ENTPD6	T-cell antigen	5	1	I	no	hepatocellular carcinoma	O75354	Ectonucleoside triphosphate diphosphohydrolase 6
+EPCAM	T-cell antigen	5	2	I	no	colon adenocarcinoma; cholangiocarcinoma	P16422	Epithelial cell adhesion molecule
+EPHA2	T-cell antigen	13	5	I,II	no	melanoma; skin melanoma; glioblastoma	P29317	Ephrin type-A receptor 2
+EPN3	T-cell antigen	1	1	I	no	skin melanoma	Q9H201	Epsin-3
+EPOR	T-cell antigen	8	1	I	no	renal cell carcinoma	P19235	Erythropoietin receptor
+EPPIN-WFDC6	Cancer-testis-like	0	0		yes			
+EPS8	T-cell antigen	46	1	I	no	prostate cancer	Q12929	Epidermal growth factor receptor kinase substrate 8
+EQTN	Cancer-testis-like	0	0		yes			
+ERBB2	T-cell antigen	121	32	I,II	no	prostate cancer; breast cancer; HER2 positive breast cancer	P04626	Receptor tyrosine-protein kinase erbB-2
+ERBB3	T-cell antigen	2	1	II	no	head and neck squamous cell carcinoma	P21860	Receptor tyrosine-protein kinase erbB-3
+ERG	T-cell antigen	2	1	I	no	prostate cancer	P11308	Transcriptional regulator ERG
+ERICH2	Cancer-testis-like	0	0		yes			
+ERICH6	Cancer-testis-like	0	0		yes			
+ERICH6B	Cancer-testis-like	0	0		yes			
+ERVK-6	T-cell antigen	2	1	I	no	triple-negative breast cancer	Q9BXR3	Endogenous retrovirus group K member 6 Pol protein
+ERVK-7	T-cell antigen	12	1	I	no	ovarian cancer	P63135	Endogenous retrovirus group K member 7 Pol protein
+ERVK-9	T-cell antigen	3	1	I	no	triple-negative breast cancer	P63128	Endogenous retrovirus group K member 9 Pol protein
+ESR1	T-cell antigen	1	1	I	no	breast cancer	P03372	Estrogen receptor
+ESX1	Cancer-testis-like	0	0		yes			
+ETDA	Cancer-testis-like	0	0		yes			
+ETDB	Cancer-testis-like	0	0		yes			
+ETV2	Cancer-testis-like	0	0		yes			
+ETV5	T-cell antigen	1	1	I	no	chronic lymphocytic leukemia; viral infectious disease	P41161	ETS translocation variant 5
+ETV6	T-cell antigen	3	1	I	no	acute lymphoblastic leukemia	P41212	Transcription factor ETV6
+EXD1	Cancer-testis-like	0	0		yes			
+EXOSC5	T-cell antigen	1	1	I	no	skin melanoma	Q9NQT4	Exosome complex component RRP46
+EZH1	T-cell antigen	1	1	I	no	cholangiocarcinoma	Q92800	Histone-lysine N-methyltransferase EZH1
+EZH2	T-cell antigen	24	9	I	no	prostate cancer; esophageal cancer; prostatic urethral cancer	Q15910	Histone-lysine N-methyltransferase EZH2
+F3	T-cell antigen	4	1	I	no	lymphoid leukemia	P13726	Tissue factor
+FABP7	T-cell antigen	5	3	I,II	no	glioblastoma; malignant astrocytoma	O15540,O15540-2	Fatty acid-binding protein, brain
+FADS2	T-cell antigen	2	1	I	no	glioblastoma	O95864	Acyl-CoA 6-desaturase
+FAM120A	T-cell antigen	3	1	I	no	Merkel cell carcinoma; viral infectious disease	Q9NZB2	Constitutive coactivator of PPAR-gamma-like protein 1
+FAM120B	T-cell antigen	1	1		no	pancreatic ductal adenocarcinoma	Q96EK7	Constitutive coactivator of peroxisome proliferator-activated receptor gamma
+FAM120C	T-cell antigen	1	1	I	no	glioblastoma	Q9NX05	Constitutive coactivator of PPAR-gamma-like protein 2
+FAM135B	Cancer-testis-like	0	0		yes			
+FAM153A	Cancer-testis-like	0	0		yes			
+FAM161A	T-cell antigen	1	1		no	pancreatic ductal adenocarcinoma	F8W731	FAM161 centrosomal protein A
+FAM166A	Cancer-testis-like	0	0		yes			
+FAM170A	Cancer-testis-like	0	0		yes			
+FAM170B	Cancer-testis-like	0	0		yes			
+FAM178B	Cancer-testis-like	0	0		yes			
+FAM181A	Cancer-testis-like	0	0		yes			
+FAM186A	Cancer-testis-like	0	0		yes			
+FAM186B	Cancer-testis-like	0	0		yes			
+FAM187B	Cancer-testis-like	0	0		yes			
+FAM205A	Cancer-testis-like	0	0		yes			
+FAM205C	Cancer-testis-like	0	0		yes			
+FAM209A	Cancer-testis-like	0	0		yes			
+FAM209B	Cancer-testis-like	0	0		yes			
+FAM20B	T-cell antigen	2	1	I	no	brain glioblastoma multiforme	O75063	Glycosaminoglycan xylosylkinase
+FAM216A	Cancer-testis-like	0	0		yes			
+FAM217A	Cancer-testis-like	0	0		yes			
+FAM221B	Cancer-testis-like	0	0		yes			
+FAM228A	Cancer-testis-like	0	0		yes			
+FAM229A	Cancer-testis-like	0	0		yes			
+FAM229B	Cancer-testis-like	0	0		yes			
+FAM236A	Cancer-testis-like	0	0		yes			
+FAM236B	Cancer-testis-like	0	0		yes			
+FAM236C	Cancer-testis-like	0	0		yes			
+FAM236D	Cancer-testis-like	0	0		yes			
+FAM24A	Cancer-testis-like	0	0		yes			
+FAM47A	Cancer-testis-like	0	0		yes			
+FAM47B	Cancer-testis-like	0	0		yes			
+FAM47C	Cancer-testis-like	0	0		yes			
+FAM53A	T-cell antigen	1	1		no	brain glioblastoma multiforme	Q6NSI3	Protein FAM53A
+FAM81B	Cancer-testis-like	0	0		yes			
+FAM9A	Cancer-testis-like	0	0		yes			
+FANCD2OS	Cancer-testis-like	0	0		yes			
+FANCI	T-cell antigen	6	1	I	no	colon adenocarcinoma	Q9NVI1	Fanconi anemia group I protein
+FAP	T-cell antigen	3	1	I	no	ovarian carcinoma	Q12884	Prolyl endopeptidase FAP
+FAR2	T-cell antigen	5	1	I	no	Merkel cell carcinoma; viral infectious disease	Q96K12	Fatty acyl-CoA reductase 2
+FAT2	T-cell antigen	5	2	I	no	skin melanoma	Q9NYQ8	Protocadherin Fat 2
+FATE1	Cancer-testis-like	0	0		yes			
+FBXO24	Cancer-testis-like	0	0		yes			
+FBXO39	Cancer-testis T-cell antigen	4	1	I	yes	colon adenocarcinoma	Q8N4B4	F-box only protein 39
+FBXO40	T-cell antigen	3	1	I	no	Merkel cell carcinoma; viral infectious disease	Q9UH90	F-box only protein 40
+FBXO43	Cancer-testis-like	0	0		yes			
+FBXO47	Cancer-testis-like	0	0		yes			
+FBXW10	Cancer-testis-like	0	0		yes			
+FBXW11	T-cell antigen	1	1	I	no	skin melanoma	Q9UKB1	F-box/WD repeat-containing protein 11
+FCGBP	T-cell antigen	1	1		no	brain glioblastoma multiforme	Q9Y6R7	IgGFc-binding protein
+FCRL5	T-cell antigen	4	1	I	no	multiple myeloma	Q96RD9	Fc receptor-like protein 5
+FERMT3	T-cell antigen	1	1	I	no	chronic myeloid leukemia	Q86UX7	Fermitin family homolog 3
+FGFR1	T-cell antigen	1	1	II	no	head and neck squamous cell carcinoma	P11362	Fibroblast growth factor receptor 1
+FH	T-cell antigen	1	1	I	no	brain glioma	P07954	Fumarate hydratase, mitochondrial
+FIBCD1	Cancer-testis-like	0	0		yes			
+FJX1	T-cell antigen	5	1	I	no	head and neck squamous cell carcinoma	Q86VR8	Four-jointed box protein 1
+FKBP15	T-cell antigen	1	1		no	pancreatic ductal adenocarcinoma	Q5T1M5	FK506-binding protein 15
+FKBP6	Cancer-testis-like	0	0		yes			
+FLT1	T-cell antigen	23	12	I	no	renal cell carcinoma; high grade glioma; cervical cancer	P17948	Vascular endothelial growth factor receptor 1
+FMOD	T-cell antigen	1	1	I	no	chronic lymphocytic leukemia	Q06828	Fibromodulin
+FMR1NB	Cancer-testis T-cell antigen	8	1	I	yes	lung adenocarcinoma	Q8N0W7	FMR1 neighbor protein
+FN1	T-cell antigen	1	1	I	no	melanoma	P02751	Fibronectin
+FNDC11	Cancer-testis-like	0	0		yes			
+FNDC8	Cancer-testis-like	0	0		yes			
+FOLH1	T-cell antigen	52	20	I,II	no	prostate cancer; castration-resistant prostate carcinoma; melanoma	Q04609	Glutamate carboxypeptidase 2
+FOLR1	T-cell antigen	11	2	I	no	ovarian cancer	P15328	Folate receptor alpha
+FOXL3	Cancer-testis-like	0	0		yes			
+FOXM1	T-cell antigen	7	4	I	no	female reproductive organ cancer; high grade glioma; cervical cancer	Q08050	Forkhead box protein M1
+FOXN4	Cancer-testis-like	0	0		yes			
+FOXO1	T-cell antigen	1	1	I	no	skin melanoma	Q12778	Forkhead box protein O1
+FOXP3	T-cell antigen	2	1	I	no	breast cancer	Q9BZS1	Forkhead box protein P3
+FOXR1	Cancer-testis-like	0	0		yes			
+FOXR2	Cancer-testis-like	0	0		yes			
+FSCB	Cancer-testis T-cell antigen	5	1	I	yes	Merkel cell carcinoma; viral infectious disease	Q5H9T9	Fibrous sheath CABYR-binding protein
+FSCN1	T-cell antigen	3	2	I,II	no	colorectal cancer; colorectal adenocarcinoma	Q16658	Fascin
+FSCN3	Cancer-testis-like	0	0		yes			
+FSHR	Cancer-testis-like	0	0		yes			
+FSIP1	Cancer-testis-like	0	0		yes			
+FSIP2	Cancer-testis-like	0	0		yes			
+FTHL17	Cancer-testis-like	0	0		yes			
+FTMT	Cancer-testis-like	0	0		yes			
+G3BP1	T-cell antigen	1	1	I	no	skin melanoma	Q13283	Ras GTPase-activating protein-binding protein 1
+GAB4	Cancer-testis-like	0	0		yes			
+GAGE12B	Cancer-testis-like	0	0		yes			
+GAGE12C	Cancer-testis-like	0	0		yes			
+GAGE12D	Cancer-testis-like	0	0		yes			
+GAGE12E	Cancer-testis-like	0	0		yes			
+GAGE12F	Cancer-testis-like	0	0		yes			
+GAGE12G	Cancer-testis-like	0	0		yes			
+GAGE12H	Cancer-testis-like	0	0		yes			
+GAGE12J	Cancer-testis-like	0	0		yes			
+GAGE13	Cancer-testis-like	0	0		yes			
+GAGE2A	Cancer-testis-like	0	0		yes			
+GAGE2E	Cancer-testis-like	0	0		yes			
+GAK	T-cell antigen	1	1	I	no	urinary bladder cancer	O14976	Cyclin-G-associated kinase
+GALNT8	Cancer-testis-like	0	0		yes			
+GALNTL5	Cancer-testis-like	0	0		yes			
+GAPDHS	Cancer-testis-like	0	0		yes			
+GARIN1B	Cancer-testis-like	0	0		yes			
+GARIN2	Cancer-testis-like	0	0		yes			
+GARIN3	Cancer-testis-like	0	0		yes			
+GARIN4	Cancer-testis-like	0	0		yes			
+GARIN5A	Cancer-testis-like	0	0		yes			
+GARIN5B	Cancer-testis-like	0	0		yes			
+GARIN6	Cancer-testis-like	0	0		yes			
+GBX1	Cancer-testis-like	0	0		yes			
+GEMIN4	T-cell antigen	6	1	I	no	colon adenocarcinoma	P57678	Gem-associated protein 4
+GFPT1	T-cell antigen	2	1	I	no	brain glioblastoma multiforme	Q06210	Glutamine--fructose-6-phosphate aminotransferase [isomerizing] 1
+GGN	Cancer-testis-like	0	0		yes			
+GGTA1	T-cell antigen	1	1		no	pancreatic ductal adenocarcinoma	Q4G0N0	Inactive N-acetyllactosaminide alpha-1,3-galactosyltransferase
+GGTLC1	Cancer-testis-like	0	0		yes			
+GGTLC2	Cancer-testis-like	0	0		yes			
+GJA8	Cancer-testis-like	0	0		yes			
+GJE1	T-cell antigen	3	1	I,II	no	brain glioblastoma multiforme	A6NN92	Gap junction epsilon-1 protein
+GK2	Cancer-testis-like	0	0		yes			
+GK3P	Cancer-testis-like	0	0		yes			
+GKAP1	Cancer-testis-like	0	0		yes			
+GLIPR1L1	Cancer-testis-like	0	0		yes			
+GLIPR1L2	Cancer-testis-like	0	0		yes			
+GLT6D1	Cancer-testis-like	0	0		yes			
+GLUD2	Cancer-testis-like	0	0		yes			
+GMCL2	Cancer-testis-like	0	0		yes			
+GNAS	T-cell antigen	3	2	I,II	no	pseudomyxoma peritonei; brain glioma	A0A590UJS2,P63092	Guanine nucleotide-binding protein G(s) subunit alpha isoforms short
+GNL3L	T-cell antigen	1	1	I	no	skin melanoma	Q9NVN8	Guanine nucleotide-binding protein-like 3-like protein
+GOLGA6A	Cancer-testis-like	0	0		yes			
+GOLGA6B	Cancer-testis-like	0	0		yes			
+GOLGA6C	Cancer-testis-like	0	0		yes			
+GOLGA6D	Cancer-testis-like	0	0		yes			
+GOLGA6L1	Cancer-testis-like	0	0		yes			
+GOLGA6L2	Cancer-testis T-cell antigen	3	1	II	yes	brain glioblastoma multiforme	Q8N9W4-1	Isoform 1 of Golgin subfamily A member 6-like protein 2
+GOLGA6L22	Cancer-testis-like	0	0		yes			
+GOLGA6L25	T-cell antigen	2	1	II	no	brain glioblastoma multiforme	P0DX01	Golgin subfamily A member 6-like protein 25
+GOLGA6L6	Cancer-testis-like	0	0		yes			
+GOLGA6L7	Cancer-testis-like	0	0		yes			
+GOLGA8G	Cancer-testis-like	0	0		yes			
+GOLGA8M	T-cell antigen	1	1	II	no	brain glioblastoma multiforme	H3BSY2	Golgin subfamily A member 8M
+GOLGA8S	Cancer-testis-like	0	0		yes			
+GOT1L1	Cancer-testis-like	0	0		yes			
+GPC3	T-cell antigen	127	19	I,II	no	hepatocellular carcinoma; cancer; hepatoblastoma	P51654	Glypican-3
+GPM6B	T-cell antigen	2	1	I	no	glioblastoma	Q13491	Neuronal membrane glycoprotein M6-b
+GPR139	T-cell antigen	6	1	I	no	acute lymphoblastic leukemia	Q6DWJ6	Probable G protein-coupled receptor 139
+GPR143	T-cell antigen	1	1	I	no	melanoma	P51810	G protein-coupled receptor 143
+GPR18	Cancer-testis-like	0	0		yes			
+GPR50	T-cell antigen	3	1	I	no	brain glioblastoma multiforme	Q13585	Melatonin-related receptor
+GPS2	T-cell antigen	2	1	I	no	skin melanoma	Q13227	G protein pathway suppressor 2
+GPSM1	T-cell antigen	2	1		no	pancreatic cancer	Q86YR5	G protein-signaling modulator 1
+GRIA4	T-cell antigen	2	1	I	no	glioblastoma	P48058	Glutamate receptor 4
+GRID2	Cancer-testis-like	0	0		yes			
+GRIK3	T-cell antigen	3	1	I	no	glioblastoma	Q13003	Glutamate receptor ionotropic, kainate 3
+GSC2	Cancer-testis-like	0	0		yes			
+GSG1	Cancer-testis-like	0	0		yes			
+GSTT4	Cancer-testis-like	0	0		yes			
+GTF2A1L	Cancer-testis-like	0	0		yes			
+GTF2E1	T-cell antigen	1	1		no	colorectal cancer	P29083	General transcription factor IIE subunit 1
+GTSF1	Cancer-testis-like	0	0		yes			
+GTSF1L	Cancer-testis-like	0	0		yes			
+GUCA1ANB	Cancer-testis-like	0	0		yes			
+GUCY1A1	T-cell antigen	1	1	I	no	renal carcinoma	Q02108	Guanylate cyclase soluble subunit alpha-1
+H1-6	Cancer-testis-like	0	0		yes			
+H1-7	Cancer-testis-like	0	0		yes			
+H1-8	Cancer-testis-like	0	0		yes			
+H2AB1	Cancer-testis-like	0	0		yes			
+H2AB2	Cancer-testis-like	0	0		yes			
+H2AB3	Cancer-testis-like	0	0		yes			
+H2AC1	Cancer-testis-like	0	0		yes			
+H2AL1Q	Cancer-testis-like	0	0		yes			
+H2AL3	Cancer-testis-like	0	0		yes			
+H2AP	Cancer-testis-like	0	0		yes			
+H2BC1	Cancer-testis-like	0	0		yes			
+H3-4	Cancer-testis-like	0	0		yes			
+H3-5	Cancer-testis-like	0	0		yes			
+H3C1	Cancer-testis-like	0	0		yes			
+HBZ	Cancer-testis-like	0	0		yes			
+HCN4	Cancer-testis-like	0	0		yes			
+HDGFL1	Cancer-testis-like	0	0		yes			
+HEATR1	T-cell antigen	7	2	I	no	glioblastoma	Q9H583	HEAT repeat-containing protein 1
+HEATR9	Cancer-testis-like	0	0		yes			
+HELB	T-cell antigen	1	1	I	no	lung squamous cell carcinoma	Q8NG08	DNA helicase B
+HHAT	T-cell antigen	5	1	I	no	ovarian cancer	Q5VTY9	Protein-cysteine N-palmitoyltransferase HHAT
+HIGD2B	Cancer-testis-like	0	0		yes			
+HILPDA	T-cell antigen	4	2	I	no	female reproductive organ cancer; renal cell carcinoma	Q9Y5L2	Hypoxia-inducible lipid droplet-associated protein
+HIPK4	Cancer-testis-like	0	0		yes			
+HJURP	T-cell antigen	4	2	I	no	female reproductive organ cancer; cervical cancer	Q8NCD3	Holliday junction recognition protein
+HLA-DRB5	T-cell antigen	4	2	I,II	no	brain glioblastoma multiforme; pancreatic ductal adenocarcinoma	Q30154	HLA class II histocompatibility antigen, DR beta 5 chain
+HMGB4	Cancer-testis-like	0	0		yes			
+HMMR	T-cell antigen	12	6	I	no	chronic myeloid leukemia; lung cancer; acute myeloid leukemia	O75330,O75330-2	Isoform 2 of Hyaluronan mediated motility receptor
+HMX1	Cancer-testis-like	0	0		yes			
+HNF1A	T-cell antigen	1	1	I	no	colorectal cancer	A0ACM8QMA6	HNF1 homeobox A
+HNRNPL	T-cell antigen	40	14	I	no	castration-resistant prostate carcinoma; prostate cancer; HER2 negative breast cancer	P14866	Heterogeneous nuclear ribonucleoprotein L
+HNRNPLL	T-cell antigen	1	1	I	no	skin melanoma	Q8WVV9	Heterogeneous nuclear ribonucleoprotein L-like
+HORMAD1	Cancer-testis-like	0	0		yes			
+HORMAD2	Cancer-testis-like	0	0		yes			
+HOXA1	T-cell antigen	8	1	I,II	no	brain glioblastoma multiforme	P49639	Homeobox protein Hox-A1
+HOXB1	T-cell antigen	3	1	I,II	no	brain glioblastoma multiforme	P14653	Homeobox protein Hox-B1
+HPN	T-cell antigen	9	1	I	no	prostate cancer	P05981	Serine protease hepsin
+HPSE	T-cell antigen	4	2	I	no	breast cancer; colorectal cancer	Q9Y251	Heparanase
+HPSE2	T-cell antigen	1	1		no	skin melanoma	Q8WWQ2	Inactive heparanase-2
+HS2ST1	T-cell antigen	1	1	I	no	glioblastoma	Q7LGA3	Heparan sulfate 2-O-sulfotransferase 1
+HSDL1	T-cell antigen	1	1	I	no	ovarian cancer	Q3SXM5	Inactive hydroxysteroid dehydrogenase-like protein 1
+HSF2BP	Cancer-testis-like	0	0		yes			
+HSF5	Cancer-testis-like	0	0		yes			
+HSFX3	Cancer-testis-like	0	0		yes			
+HSFX4	Cancer-testis-like	0	0		yes			
+HSFY1	Cancer-testis-like	0	0		yes			
+HSFY2	Cancer-testis-like	0	0		yes			
+HSP90AA1	T-cell antigen	5	1	I	no	multiple myeloma	P07900	Heat shock protein HSP 90-alpha
+HSP90B1	T-cell antigen	1	1	I	no	acute myeloid leukemia	P14625	Endoplasmin
+HSPA1A	T-cell antigen	15	6	I	no	breast cancer; renal cell carcinoma; skin melanoma	P0DMV8	Heat shock 70 kDa protein 1A
+HSPA1L	Cancer-testis-like	0	0		yes			
+HSPA4L	Cancer-testis-like	0	0		yes			
+HSPB1	T-cell antigen	5	1	I	no	multiple myeloma	P04792	Heat shock protein beta-1
+HSPB9	Cancer-testis-like	0	0		yes			
+HSPH1	T-cell antigen	45	2	I	no	esophageal cancer; colorectal cancer	Q92598	Heat shock protein 105 kDa
+HTATSF1	T-cell antigen	1	1	II	no	melanoma	O43719	17S U2 SnRNP complex component HTATSF1
+HTR3D	T-cell antigen	1	1		no	pancreatic ductal adenocarcinoma	Q70Z44	5-hydroxytryptamine receptor 3D
+HTR7	Cancer-testis-like	0	0		yes			
+ICE1	T-cell antigen	3	1	I	no	pancreatic ductal adenocarcinoma	Q9Y2F5	Little elongation complex subunit 1
+IDH3G	T-cell antigen	5	1	I	no	Merkel cell carcinoma; viral infectious disease	P51553	Isocitrate dehydrogenase [NAD] subunit gamma, mitochondrial
+IDO1	T-cell antigen	27	4	I,II	no	melanoma; lung non-small cell carcinoma; breast cancer	P14902	Indoleamine 2,3-dioxygenase 1
+IFT56	T-cell antigen	2	1	I	no	hepatocellular carcinoma	A0AVF1	Intraflagellar transport protein 56
+IGBP1P2	Cancer-testis-like	0	0		yes			
+IGF1	T-cell antigen	3	1	I	no	pancreatic ductal adenocarcinoma	P05019	Insulin-like growth factor 1
+IGF2BP1	Cancer-testis T-cell antigen	6	4	I	yes	esophagus squamous cell carcinoma; esophageal carcinoma; esophageal cancer	Q9NZI8	Insulin-like growth factor 2 mRNA-binding protein 1
+IGF2BP2	T-cell antigen	40	2	I	no	melanoma; chronic lymphocytic leukemia; skin melanoma	Q9Y6M1	Insulin-like growth factor 2 mRNA-binding protein 2
+IGF2BP3	T-cell antigen	17	6	I,II	no	head and neck squamous cell carcinoma; glioblastoma; colorectal cancer	O00425	Insulin-like growth factor 2 mRNA-binding protein 3
+IGFBP2	T-cell antigen	28	1		no	breast cancer	P18065	Insulin-like growth factor-binding protein 2
+IGFBP3	T-cell antigen	3	1	II	no	intrahepatic cholangiocarcinoma	P17936	Insulin-like growth factor-binding protein 3
+IGFN1	T-cell antigen	1	1		no	pancreatic ductal adenocarcinoma	Q86VF2-5	Isoform 5 of Immunoglobulin-like and fibronectin type III domain-containing protein 1
+IGHJ6	Cancer-testis-like	0	0		yes			
+IGHV4-39	T-cell antigen	10	1	II	no	follicular lymphoma	P01824	Immunoglobulin heavy variable 4-39
+IGKV3-20	T-cell antigen	10	1	II	no	plasma cell leukemia	P01619	Immunoglobulin kappa variable 3-20
+IGLL1	Cancer-testis-like	0	0		yes			
+IGLV1-44	T-cell antigen	4	1	II	no	splenic marginal zone lymphoma	P01699	Immunoglobulin lambda variable 1-44
+IGLV5-37	T-cell antigen	1	1	I	no	skin melanoma	A0A075B6J1	Immunoglobulin lambda variable 5-37
+IHO1	Cancer-testis-like	0	0		yes			
+IL13	Cancer-testis-like	0	0		yes			
+IL13RA2	T-cell antigen	9	2	I,II	no	brain glioblastoma multiforme; glioblastoma; anaplastic oligodendroglioma	Q14627	Interleukin-13 receptor subunit alpha-2
+IL1B	T-cell antigen	2	1	II	no	hepatocellular carcinoma	P01584	Interleukin-1 beta
+IL4I1	Cancer-testis-like	0	0		yes			
+IL4R	T-cell antigen	1	1	II	no	chronic lymphocytic leukemia	P24394	Interleukin-4 receptor subunit alpha
+IL5	Cancer-testis-like	0	0		yes			
+INA	T-cell antigen	1	1	I	no	brain glioma	Q16352	Alpha-internexin
+INCA1	Cancer-testis-like	0	0		yes			
+INHA	Cancer-testis-like	0	0		yes			
+INSL3	Cancer-testis-like	0	0		yes			
+INSL6	Cancer-testis-like	0	0		yes			
+INSM2	T-cell antigen	3	1	I	no	brain glioblastoma multiforme	Q96T92	Insulinoma-associated protein 2
+INTS13	T-cell antigen	1	1	I	no	chronic lymphocytic leukemia	Q9NVM9	Integrator complex subunit 13
+IPO8	T-cell antigen	1	1	II	no	pancreatic ductal adenocarcinoma	O15397	Importin-8
+IQCA1L	Cancer-testis-like	0	0		yes			
+IQCD	Cancer-testis-like	0	0		yes			
+IQCF1	Cancer-testis-like	0	0		yes			
+IQCF2	Cancer-testis-like	0	0		yes			
+IQCF3	Cancer-testis-like	0	0		yes			
+IQCF5	Cancer-testis T-cell antigen	1	1	I	yes	melanoma	A8MTL0	IQ domain-containing protein F5
+IQCF6	Cancer-testis-like	0	0		yes			
+IQCM	Cancer-testis-like	0	0		yes			
+IQCN	Cancer-testis-like	0	0		yes			
+IQUB	Cancer-testis-like	0	0		yes			
+IREB2	T-cell antigen	1	1	I	no	skin melanoma	P48200	Iron-responsive element-binding protein 2
+IRF5	T-cell antigen	2	1		no	brain glioblastoma multiforme	Q13568	Interferon regulatory factor 5
+IRGC	Cancer-testis-like	0	0		yes			
+IRS2	T-cell antigen	2	1	I	no	skin melanoma	Q9Y4H2	Insulin receptor substrate 2
+ISG15	T-cell antigen	1	1	I	no	hepatocellular carcinoma	P05161	Ubiquitin-like protein ISG15
+ISLR2	Cancer-testis-like	0	0		yes			
+ITGA7	T-cell antigen	2	1	I	no	glioblastoma	Q13683	Integrin alpha-7
+ITGB5	T-cell antigen	1	1	II	no	melanoma	P18084	Integrin beta-5
+ITGB8	T-cell antigen	7	1	I	no	breast cancer; ovarian cancer; prostate cancer	P26012	Integrin beta-8
+IZUMO1	Cancer-testis-like	0	0		yes			
+IZUMO2	Cancer-testis-like	0	0		yes			
+IZUMO3	Cancer-testis-like	0	0		yes			
+IZUMO4	Cancer-testis-like	0	0		yes			
+JPH2	T-cell antigen	1	1	II	no	brain glioblastoma multiforme	Q9BR39	Junctophilin-2
+KALRN	T-cell antigen	1	1		no	pancreatic ductal adenocarcinoma	O60229	Kalirin
+KANSL1	T-cell antigen	1	1		no	pancreatic ductal adenocarcinoma	Q7Z3B3	KAT8 regulatory NSL complex subunit 1
+KASH5	Cancer-testis-like	0	0		yes			
+KCNE4	T-cell antigen	2	1	I	no	lung adenocarcinoma	Q8WWG9	Potassium voltage-gated channel subfamily E member 4
+KCNJ10	T-cell antigen	2	1	I	no	glioblastoma	P78508	ATP-sensitive inward rectifier potassium channel 10
+KCNMA1	T-cell antigen	2	1	I	no	brain glioblastoma multiforme	Q12791-7	Isoform 7 of Calcium-activated potassium channel subunit alpha-1
+KCNU1	Cancer-testis-like	0	0		yes			
+KCTD19	Cancer-testis-like	0	0		yes			
+KDM2B	T-cell antigen	1	1	I	no	chronic lymphocytic leukemia	Q8NHM5	Lysine-specific demethylase 2B
+KDM4D	Cancer-testis-like	0	0		yes			
+KDM5B	T-cell antigen	1	1	I	no	breast cancer	Q9UGL1	Lysine-specific demethylase 5B
+KDR	T-cell antigen	20	11	I	no	pancreatic cancer; pancreatic adenocarcinoma; high grade glioma	P35968	Vascular endothelial growth factor receptor 2
+KEL	Cancer-testis-like	0	0		yes			
+KHDC1L	Cancer-testis-like	0	0		yes			
+KHDRBS3	T-cell antigen	1	1	II	no	melanoma	O75525	KH domain-containing, RNA-binding, signal transduction-associated protein 3
+KIAA1210	Cancer-testis-like	0	0		yes			
+KIF15	Cancer-testis-like	0	0		yes			
+KIF17	Cancer-testis-like	0	0		yes			
+KIF18A	Cancer-testis-like	0	0		yes			
+KIF20A	T-cell antigen	23	10	I,II	no	pancreatic cancer; skin melanoma; high grade glioma	O95235	Kinesin-like protein KIF20A
+KIF20B	T-cell antigen	13	6	I,II	no	bladder urothelial carcinoma; esophageal cancer; cholangiocarcinoma	Q96Q89,Q96Q89-2	Kinesin-like protein KIF20B
+KIF23	T-cell antigen	5	1	I	no	Merkel cell carcinoma; viral infectious disease	Q02241	Kinesin-like protein KIF23
+KIF2B	Cancer-testis-like	0	0		yes			
+KIF2C	Cancer-testis-like	0	0		yes			
+KIF4B	Cancer-testis-like	0	0		yes			
+KIT	T-cell antigen	4	2	I,II	no	brain glioblastoma multiforme; invasive ductal carcinoma	P10721	Mast/stem cell growth factor receptor Kit
+KLF17	Cancer-testis-like	0	0		yes			
+KLHL10	Cancer-testis-like	0	0		yes			
+KLHL7	T-cell antigen	6	1	I	no	colon adenocarcinoma	Q8IXQ5	Kelch-like protein 7
+KLK2	T-cell antigen	1	1	I	no	prostate cancer	P20151	Kallikrein-2
+KLK3	T-cell antigen	116	29	I,II	no	prostate cancer; prostate adenocarcinoma; castration-resistant prostate carcinoma	P07288	Prostate-specific antigen
+KLK4	T-cell antigen	7	1	I	no	prostate cancer	Q9Y5K2	Kallikrein-4
+KLK6	T-cell antigen	3	1		no	pancreatic ductal adenocarcinoma	Q92876	Kallikrein-6
+KLK8	T-cell antigen	1	1	I	no	colorectal adenocarcinoma	O60259	Kallikrein-8
+KMT2C	T-cell antigen	1	1	I	no	colorectal cancer	Q8NEZ4	Histone-lysine N-methyltransferase 2C
+KMT2E	T-cell antigen	1	1		no	pancreatic cancer	Q8IZD2	Histone reader KMT2E
+KNL1	Cancer-testis-like	0	0		yes			
+KPRP	T-cell antigen	5	1	I	no	Merkel cell carcinoma; viral infectious disease	Q5T749	Keratinocyte proline-rich protein
+KRAS	T-cell antigen	20	7	I,II	no	pancreatic cancer; lung non-small cell carcinoma; colorectal adenocarcinoma	G3V4K2,G3V5T7,P01116,P01116-2	GTPase KRas
+KRBOX1	Cancer-testis-like	0	0		yes			
+KRT10	T-cell antigen	2	1		no	pancreatic ductal adenocarcinoma	P13645	Keratin, type I cytoskeletal 10
+KRT18	T-cell antigen	1	1	I	no	melanoma	P05783	Keratin, type I cytoskeletal 18
+KRT19	T-cell antigen	56	1	I	no	lung non-small cell carcinoma	P08727	Keratin, type I cytoskeletal 19
+KRT222	T-cell antigen	1	1	I	no	invasive ductal carcinoma	Q8N1A0	Keratin-like protein KRT222
+KRT24	T-cell antigen	1	1		no	brain glioblastoma multiforme	Q2M2I5	Keratin, type I cytoskeletal 24
+KRT72	Cancer-testis-like	0	0		yes			
+KRT8	T-cell antigen	5	1	I	no	Merkel cell carcinoma; viral infectious disease	P05787	Keratin, type II cytoskeletal 8
+KRTAP11-1	T-cell antigen	1	1		no	pancreatic ductal adenocarcinoma	Q8IUC1	Keratin-associated protein 11-1
+KRTAP20-4	Cancer-testis-like	0	0		yes			
+KRTAP21-2	Cancer-testis-like	0	0		yes			
+KRTAP4-11	T-cell antigen	2	1		no	pancreatic ductal adenocarcinoma	Q9BYQ6	Keratin-associated protein 4-11
+L1TD1	Cancer-testis-like	0	0		yes			
+LAMA4	T-cell antigen	1	1		no	brain glioblastoma multiforme	Q16363	Laminin subunit alpha-4
+LAMA5	T-cell antigen	1	1	II	no	glioblastoma	O15230	Laminin subunit alpha-5
+LAMB3	T-cell antigen	4	1	I	no	pancreatic ductal adenocarcinoma	Q13751	Laminin subunit beta-3
+LAMC1	T-cell antigen	1	1	II	no	melanoma	P11047	Laminin subunit gamma-1
+LAMC2	T-cell antigen	5	2	I	no	pancreatic ductal adenocarcinoma	Q13753	Laminin subunit gamma-2
+LARP1	T-cell antigen	1	1	I	no	chronic myeloid leukemia	Q6PKG0	La-related protein 1
+LCA5L	Cancer-testis-like	0	0		yes			
+LCE1F	T-cell antigen	2	1	I	no	brain glioblastoma multiforme	Q5T754	Late cornified envelope protein 1F
+LCK	T-cell antigen	179	22	I,II	no	cancer; castration-resistant prostate carcinoma; prostate cancer	P06239	Tyrosine-protein kinase Lck
+LDHAL6A	Cancer-testis-like	0	0		yes			
+LDHAL6B	Cancer-testis-like	0	0		yes			
+LDHC	Cancer-testis-like	0	0		yes			
+LECT2	T-cell antigen	2	1	I	no	brain glioblastoma multiforme	O14960	Leukocyte cell-derived chemotaxin-2
+LELP1	Cancer-testis-like	0	0		yes			
+LEMD1	Cancer-testis-like	0	0		yes			
+LEPR	T-cell antigen	1	1		no	brain glioblastoma multiforme	P48357	Leptin receptor
+LGALS3BP	T-cell antigen	19	2	I	no	colon cancer; skin melanoma	Q08380	Galectin-3-binding protein
+LGI4	T-cell antigen	1	1	II	no	glioblastoma	Q8N135	Leucine-rich repeat LGI family member 4
+LGMN	T-cell antigen	1	1	I	no	skin melanoma	Q99538	Legumain
+LGSN	T-cell antigen	1	1	I	no	lung non-small cell carcinoma	Q5TDP6	Lengsin
+LILRA6	T-cell antigen	2	2		no	pancreatic ductal adenocarcinoma; brain glioblastoma multiforme	A0A0G2JNG0,A0A0G2JQ24	Leukocyte immunoglobulin like receptor A6
+LILRB3	T-cell antigen	1	1		no	pancreatic ductal adenocarcinoma	A0A0G2JMM1	Leukocyte immunoglobulin like receptor B3
+LIN28A	Cancer-testis-like	0	0		yes			
+LINC00518	T-cell antigen	8	1	I	no	melanoma	Q8N0U6	Putative uncharacterized protein encoded by LINC00518
+LINC02203	Cancer-testis-like	0	0		yes			
+LIPJ	Cancer-testis-like	0	0		yes			
+LITAFD	Cancer-testis-like	0	0		yes			
+LKAAEAR1	Cancer-testis-like	0	0		yes			
+LLCFC1	Cancer-testis-like	0	0		yes			
+LMNTD1	Cancer-testis-like	0	0		yes			
+LOC100996750	T-cell antigen	1	1		no	pancreatic ductal adenocarcinoma	A0A140TA64	Uncharacterized protein
+LOC128071547	T-cell antigen	7	1	I	no	pancreatic cancer	A0A6Q8PGS0	Uncharacterized protein
+LRBA	T-cell antigen	1	1	I	no	colorectal cancer	P50851	Lipopolysaccharide-responsive and beige-like anchor protein
+LRP6	T-cell antigen	1	1	II	no	glioblastoma	O75581	Low-density lipoprotein receptor-related protein 6
+LRPAP1	T-cell antigen	3	1	I	no	lung non-small cell carcinoma	P30533	Alpha-2-macroglobulin receptor-associated protein
+LRRC18	Cancer-testis-like	0	0		yes			
+LRRC27	Cancer-testis-like	0	0		yes			
+LRRC36	Cancer-testis-like	0	0		yes			
+LRRC37A2	Cancer-testis-like	0	0		yes			
+LRRC37A3	T-cell antigen	1	1		no	pancreatic ductal adenocarcinoma	O60309	Leucine-rich repeat-containing protein 37A3
+LRRC46	T-cell antigen	2	1	I	no	hepatocellular carcinoma	Q96FV0	Leucine-rich repeat-containing protein 46
+LRRC52	Cancer-testis-like	0	0		yes			
+LRRC71	Cancer-testis-like	0	0		yes			
+LRRC72	Cancer-testis-like	0	0		yes			
+LRRC73	Cancer-testis-like	0	0		yes			
+LRRC74A	Cancer-testis-like	0	0		yes			
+LRRC9	Cancer-testis-like	0	0		yes			
+LRRD1	Cancer-testis-like	0	0		yes			
+LRRIQ3	Cancer-testis-like	0	0		yes			
+LRRIQ4	Cancer-testis-like	0	0		yes			
+LRTOMT	Cancer-testis-like	0	0		yes			
+LRWD1	Cancer-testis-like	0	0		yes			
+LTA	Cancer-testis-like	0	0		yes			
+LUZP4	Cancer-testis-like	0	0		yes			
+LY6G6F-LY6G6D	Cancer-testis-like	0	0		yes			
+LY6K	T-cell antigen	60	13	I,II	no	head and neck cancer; lung non-small cell carcinoma; esophageal cancer	Q17RY6	Lymphocyte antigen 6K
+LY75	T-cell antigen	1	1	II	no	cancer	O60449	Lymphocyte antigen 75
+LYAR	Cancer-testis-like	0	0		yes			
+LYPD4	Cancer-testis-like	0	0		yes			
+LYZL1	Cancer-testis-like	0	0		yes			
+LYZL2	Cancer-testis-like	0	0		yes			
+LYZL4	Cancer-testis-like	0	0		yes			
+LYZL6	Cancer-testis-like	0	0		yes			
+LZTS1	T-cell antigen	1	1	I	no	glioblastoma	Q9Y250	Leucine zipper putative tumor suppressor 1
+MACF1	T-cell antigen	1	1	I	no	skin melanoma	Q9UPN3	Microtubule-actin cross-linking factor 1, isoforms 1/2/3/4/5
+MAEL	Cancer-testis-like	0	0		yes			
+MAFF	T-cell antigen	1	1		no	lung non-small cell carcinoma	Q9ULX9	Transcription factor MafF
+MAGEA1	Cancer-testis T-cell antigen	52	21	I	yes	hepatocellular carcinoma; melanoma; skin melanoma	P43355	Melanoma-associated antigen 1
+MAGEA10	Cancer-testis T-cell antigen	27	15	I	yes	melanoma; skin melanoma; hepatocellular carcinoma	P43363	Melanoma-associated antigen 10
+MAGEA12	Cancer-testis T-cell antigen	8	2	I	yes	melanoma; hepatocellular carcinoma	P43365	Melanoma-associated antigen 12
+MAGEA2	Cancer-testis T-cell antigen	17	8	I,II	yes	skin melanoma; prostate cancer; melanoma	P43356	Melanoma-associated antigen 2
+MAGEA2B	Cancer-testis T-cell antigen	17	8	I,II	yes	skin melanoma; prostate cancer; melanoma	P43356	Melanoma-associated antigen 2
+MAGEA3	Cancer-testis T-cell antigen	220	44	I,II	yes	melanoma; skin melanoma; lung cancer	P43357	Melanoma-associated antigen 3
+MAGEA4	Cancer-testis T-cell antigen	6	4	I	yes	skin melanoma; acral lentiginous melanoma; lung non-small cell carcinoma	P43358	Melanoma-associated antigen 4
+MAGEA6	Cancer-testis T-cell antigen	41	6	I	yes	melanoma; skin melanoma; acral lentiginous melanoma	P43360	Melanoma-associated antigen 6
+MAGEA8	Cancer-testis T-cell antigen	3	2	I	yes	colon adenocarcinoma; skin melanoma	P43361	Melanoma-associated antigen 8
+MAGEA9	Cancer-testis T-cell antigen	2	2	I	yes	lung non-small cell carcinoma; skin melanoma	P43362	Melanoma-associated antigen 9
+MAGEA9B	Cancer-testis T-cell antigen	2	2	I	yes	lung non-small cell carcinoma; skin melanoma	P43362	Melanoma-associated antigen 9
+MAGEB1	Cancer-testis-like	0	0		yes			
+MAGEB10	Cancer-testis-like	0	0		yes			
+MAGEB16	Cancer-testis-like	0	0		yes			
+MAGEB17	Cancer-testis-like	0	0		yes			
+MAGEB18	Cancer-testis T-cell antigen	23	1	I	yes	melanoma	Q96M61	Melanoma-associated antigen B18
+MAGEB2	Cancer-testis T-cell antigen	5	3	I	yes	hepatocellular carcinoma; melanoma; skin melanoma	O15479	Melanoma-associated antigen B2
+MAGEB3	Cancer-testis-like	0	0		yes			
+MAGEB4	Cancer-testis-like	0	0		yes			
+MAGEB6	Cancer-testis-like	0	0		yes			
+MAGEC1	Cancer-testis T-cell antigen	16	5	I	yes	mucosal melanoma; hepatocellular carcinoma; multiple myeloma	O60732	Melanoma-associated antigen C1
+MAGEC2	Cancer-testis T-cell antigen	54	13	I,II	yes	skin melanoma; acral lentiginous melanoma; melanoma	Q9UBF1	Melanoma-associated antigen C2
+MAGED4	T-cell antigen	44	2	I	no	oral squamous cell carcinoma; head and neck squamous cell carcinoma	Q96JG8	Melanoma-associated antigen D4
+MAGED4B	T-cell antigen	44	2	I	no	oral squamous cell carcinoma; head and neck squamous cell carcinoma	Q96JG8	Melanoma-associated antigen D4
+MAGEF1	T-cell antigen	3	2	I	no	glioblastoma; melanoma	Q9HAY2	Melanoma-associated antigen F1
+MAGEL2	T-cell antigen	1	1	II	no	pancreatic ductal adenocarcinoma	Q9UJ55	MAGE-like protein 2
+MAGI2	T-cell antigen	2	2	I	no	pancreatic ductal adenocarcinoma; glioblastoma	Q86UL8	Membrane-associated guanylate kinase, WW and PDZ domain-containing protein 2
+MAGOHB	T-cell antigen	1	1	I	no	head and neck squamous cell carcinoma	Q96A72	Protein mago nashi homolog 2
+MAJIN	Cancer-testis-like	0	0		yes			
+MALRD1	T-cell antigen	1	1		no	pancreatic ductal adenocarcinoma	Q5VYJ5	MAM and LDL-receptor class A domain-containing protein 1
+MAP2K4	T-cell antigen	1	1		no	lung squamous cell carcinoma	P45985	Dual specificity mitogen-activated protein kinase kinase 4
+MAP3K2	T-cell antigen	1	1	II	no	gastrointestinal system cancer	Q9Y2U5	Mitogen-activated protein kinase kinase kinase 2
+MAP6	T-cell antigen	2	1		no	pancreatic ductal adenocarcinoma	Q96JE9	Microtubule-associated protein 6
+MAPK1	T-cell antigen	1	1	I	no	brain glioma	P28482	Mitogen-activated protein kinase 1
+MAPK4	T-cell antigen	1	1	I	no	melanoma	K7ELV1	mitogen-activated protein kinase
+MAPK8IP3	T-cell antigen	2	1	I	no	colon adenocarcinoma	Q9UPT6	C-Jun-amino-terminal kinase-interacting protein 3
+MARCHF10	Cancer-testis-like	0	0		yes			
+MARCHF11	Cancer-testis-like	0	0		yes			
+MBD3L1	Cancer-testis-like	0	0		yes			
+MBOAT7	T-cell antigen	1	1	I	no	chronic myeloid leukemia	Q96N66	Membrane-bound acylglycerophosphatidylinositol O-acyltransferase MBOAT7
+MC1R	T-cell antigen	13	2	I	no	skin melanoma	Q01726	Melanocyte-stimulating hormone receptor
+MCHR2	Cancer-testis-like	0	0		yes			
+MCMBP	T-cell antigen	1	1	I	no	lung adenocarcinoma	Q9BTE3	Mini-chromosome maintenance complex-binding protein
+MDGA2	Cancer-testis-like	0	0		yes			
+MDK	T-cell antigen	1	1	I	no	hepatocellular carcinoma	P21741	Midkine
+MDM2	T-cell antigen	4	3	I	no	chronic lymphocytic leukemia; viral infectious disease; melanoma	Q00987	E3 ubiquitin-protein ligase Mdm2
+MDN1	T-cell antigen	1	1	I	no	skin melanoma	Q9NU22	Midasin
+ME1	T-cell antigen	6	1	I	no	lung non-small cell carcinoma	P48163	NADP-dependent malic enzyme
+MEF2B	T-cell antigen	2	1	I	no	follicular lymphoma	Q02080	Myocyte-specific enhancer factor 2B
+MEGF6	T-cell antigen	5	1	I	no	Merkel cell carcinoma; viral infectious disease	O75095	Multiple epidermal growth factor-like domains protein 6
+MEIG1	Cancer-testis-like	0	0		yes			
+MEIKIN	Cancer-testis-like	0	0		yes			
+MEIOB	Cancer-testis-like	0	0		yes			
+MEIOC	Cancer-testis-like	0	0		yes			
+MEIOSIN	Cancer-testis-like	0	0		yes			
+MEIS1	T-cell antigen	1	1		no	pancreatic ductal adenocarcinoma	O00470-2	Isoform 2 of Homeobox protein Meis1
+MET	T-cell antigen	4	4	I	no	urinary bladder cancer; melanoma; skin melanoma	P08581	Hepatocyte growth factor receptor
+MEX3B	Cancer-testis-like	0	0		yes			
+MEX3D	Cancer-testis-like	0	0		yes			
+MFGE8	T-cell antigen	4	2	I	no	breast cancer; skin melanoma	Q08431	Lactadherin
+MGAT4D	Cancer-testis-like	0	0		yes			
+MINDY4	T-cell antigen	1	1	II	no	pancreatic ductal adenocarcinoma	Q4G0A6	Probable ubiquitin carboxyl-terminal hydrolase MINDY-4
+MKI67	T-cell antigen	8	3	I	no	melanoma; brain glioblastoma multiforme; urinary bladder cancer	P46013	Proliferation marker protein Ki-67
+MLANA	T-cell antigen	303	68	I,II	no	skin melanoma; melanoma; chronic lymphocytic leukemia	Q16655	Melanoma antigen recognized by T-cells 1
+MMP1	T-cell antigen	1	1	I	no	colorectal adenocarcinoma	P03956	Interstitial collagenase
+MMP17	T-cell antigen	1	1	I	no	transverse colon cancer	Q9ULZ9	Matrix metalloproteinase-17
+MMP7	T-cell antigen	3	2	I,II	no	bile duct adenocarcinoma; renal carcinoma	P09237	Matrilysin
+MOK	T-cell antigen	2	2	I	no	skin melanoma; melanoma	Q9UQ07	MAPK/MAK/MRK overlapping kinase
+MORC1	Cancer-testis T-cell antigen	1	1	II	yes	pancreatic ductal adenocarcinoma	Q86VD1	MORC family CW-type zinc finger protein 1
+MOV10L1	Cancer-testis-like	0	0		yes			
+MPC1L	Cancer-testis-like	0	0		yes			
+MPO	T-cell antigen	2	1	I	no	acute myeloid leukemia	P05164	Myeloperoxidase
+MPP1	T-cell antigen	1	1		no	brain glioblastoma multiforme	Q00013	55 kDa erythrocyte membrane protein
+MR1	T-cell antigen	1	1	II	no	cancer	Q95460	Major histocompatibility complex class I-related protein 1
+MROH2B	Cancer-testis-like	0	0		yes			
+MROH5	Cancer-testis-like	0	0		yes			
+MROH7	Cancer-testis-like	0	0		yes			
+MS4A1	T-cell antigen	7	2	I,II	no	B-cell acute lymphoblastic leukemia; chronic lymphocytic leukemia; lymphoma	P11836,P11836-2	B-lymphocyte antigen CD20
+MS4A13	Cancer-testis-like	0	0		yes			
+MS4A14	Cancer-testis-like	0	0		yes			
+MS4A18	T-cell antigen	1	1		no	pancreatic ductal adenocarcinoma	Q3C1V0	Membrane-spanning 4-domains subfamily A member 18
+MS4A5	Cancer-testis-like	0	0		yes			
+MS4A6E	Cancer-testis-like	0	0		yes			
+MSANTD5	Cancer-testis-like	0	0		yes			
+MSLN	T-cell antigen	45	6	I,II	no	pancreatic ductal adenocarcinoma; colorectal cancer; malignant pleural mesothelioma	Q13421,Q13421-1	Mesothelin
+MSRB2	T-cell antigen	2	1	I	no	brain glioblastoma multiforme	Q9Y3D2	Methionine-R-sulfoxide reductase B2, mitochondrial
+MT-CO2	T-cell antigen	1	1	I	no	melanoma	P00403	Cytochrome c oxidase subunit 2
+MTA2	T-cell antigen	2	1	I,II	no	stomach cancer	O94776	Metastasis-associated protein MTA2
+MTHFD1	T-cell antigen	1	1	II	no	cancer	P11586	C-1-tetrahydrofolate synthase, cytoplasmic
+MTM1	T-cell antigen	1	1		no	collecting duct carcinoma	Q13496	Myotubularin
+MTRR	T-cell antigen	1	1		no	collecting duct carcinoma	Q9UBK8	Methionine synthase reductase
+MTSS2	T-cell antigen	2	1	I	no	glioblastoma	Q765P7	Protein MTSS 2
+MUC1	T-cell antigen	85	21	I	no	multiple myeloma; colon carcinoma; prostate cancer	P15941	Mucin-1
+MUC12	T-cell antigen	1	1		no	pancreatic ductal adenocarcinoma	Q9UKN1	Mucin-12
+MUC16	T-cell antigen	3	1	I	no	ovarian carcinoma	Q8WXI7	Mucin-16
+MUC22	T-cell antigen	1	1		no	pancreatic ductal adenocarcinoma	E2RYF6	Mucin-22
+MUC5AC	T-cell antigen	1	1	I	no	cholangiocarcinoma	P98088	Mucin-5AC
+MUCL3	T-cell antigen	1	1		no	pancreatic ductal adenocarcinoma	E9PEI6	Mucin like 3
+MYADM	T-cell antigen	1	1	I	no	lung squamous cell carcinoma	Q96S97	Myeloid-associated differentiation marker
+MYCBP2	T-cell antigen	1	1		no	lung non-small cell carcinoma	O75592	E3 ubiquitin-protein ligase MYCBP2
+MYCBPAP	Cancer-testis T-cell antigen	1	1		yes	brain glioblastoma multiforme	Q8TBZ2	MYCBP-associated protein
+MYH9	T-cell antigen	2	2	I	no	pancreatic ductal adenocarcinoma; bile duct cancer	P35579	Myosin-9
+MYL12B	T-cell antigen	3	1	I	no	pancreatic ductal adenocarcinoma	O14950	Myosin regulatory light chain 12B
+MYO1B	T-cell antigen	2	1	I,II	no	colorectal cancer	O43795	Unconventional myosin-Ib
+MYO1G	T-cell antigen	1	1	I	no	myeloid leukemia	B0I1T2	Unconventional myosin-Ig
+MYO3A	Cancer-testis-like	0	0		yes			
+MYO5B	T-cell antigen	1	1	I	no	colorectal cancer	Q9ULV0	Unconventional myosin-Vb
+NAA11	Cancer-testis-like	0	0		yes			
+NACA2	Cancer-testis-like	0	0		yes			
+NANOS2	Cancer-testis-like	0	0		yes			
+NANOS3	Cancer-testis-like	0	0		yes			
+NARS2	T-cell antigen	1	1		no	brain glioblastoma multiforme	Q96I59	Asparaginyl-tRNA synthetase
+NBPF1	T-cell antigen	1	1	II	no	brain glioblastoma multiforme	Q3BBV0	NBPF family member NBPF1
+NBPF11	T-cell antigen	1	1		no	pancreatic ductal adenocarcinoma	Q86T75	NBPF family member NBPF11
+NBPF26	T-cell antigen	2	2	II	no	pancreatic ductal adenocarcinoma; brain glioblastoma multiforme	B4DH59	NBPF family member NBPF26
+NBPF3	Cancer-testis-like	0	0		yes			
+NCAPH	Cancer-testis-like	0	0		yes			
+NCF2	T-cell antigen	1	1		no	pancreatic ductal adenocarcinoma	P19878	Neutrophil cytosol factor 2
+NCOA5	T-cell antigen	4	1	II	no	glioblastoma	Q9HCD5	Nuclear receptor coactivator 5
+NCOR1	T-cell antigen	1	1		no	pancreatic ductal adenocarcinoma	O75376-3	Isoform 3 of Nuclear receptor corepressor 1
+NDUFS2	T-cell antigen	2	1		no	pancreatic ductal adenocarcinoma	O75306	NADH dehydrogenase [ubiquinone] iron-sulfur protein 2, mitochondrial
+NDUFV1-DT	T-cell antigen	5	1	I	no	melanoma	Q8NBR9	Uncharacterized protein NDUFV1-DT
+NEB	T-cell antigen	3	2	I	no	transverse colon cancer; skin melanoma	A0A8I5QJN4,P20929	Nebulin
+NEK2	Cancer-testis-like	0	0		yes			
+NEK3	T-cell antigen	13	1	I	no	breast cancer	P51956	Serine/threonine-protein kinase Nek3
+NEK8	T-cell antigen	1	1		no	pancreatic ductal adenocarcinoma	Q86SG6	Serine/threonine-protein kinase Nek8
+NELFA	T-cell antigen	44	15	I	no	castration-resistant prostate carcinoma; prostate cancer; HER2 negative breast cancer	Q9H3P2	Negative elongation factor A
+NF1	T-cell antigen	1	1		no	brain glioblastoma multiforme	P21359	Neurofibromin
+NFKBIA	T-cell antigen	7	1	I	no	skin melanoma; renal cell carcinoma; breast cancer	P25963	NF-kappa-B inhibitor alpha
+NIF3L1	T-cell antigen	1	1		no	lung non-small cell carcinoma	Q9GZT8	NIF3-like protein 1
+NKX2-8	Cancer-testis-like	0	0		yes			
+NKX6-1	Cancer-testis-like	0	0		yes			
+NLGN4X	T-cell antigen	7	3	I,II	no	glioblastoma; malignant astrocytoma	Q8N0W4	Neuroligin-4, X-linked
+NLGN4Y	T-cell antigen	1	1	I	no	glioblastoma	Q8NFZ3	Neuroligin-4, Y-linked
+NLRP14	T-cell antigen	1	1		no	pancreatic ductal adenocarcinoma	Q86W24	NACHT, LRR and PYD domains-containing protein 14
+NLRP7	Cancer-testis-like	0	0		yes			
+NME1	T-cell antigen	3	1	I	no	brain glioma	P15531	Nucleoside diphosphate kinase A
+NME2	T-cell antigen	8	1	I	no	brain glioma	P22392	Nucleoside diphosphate kinase B
+NME8	Cancer-testis-like	0	0		yes			
+NOB1	T-cell antigen	5	3	I	no	prostate adenocarcinoma; pancreatic adenocarcinoma; cholangiocarcinoma	Q9ULX3	RNA-binding protein NOB1
+NOX4	T-cell antigen	1	1		no	brain glioblastoma multiforme	Q9NPH5	NADPH oxidase 4
+NOXRED1	Cancer-testis-like	0	0		yes			
+NPAT	T-cell antigen	5	1	I	no	Merkel cell carcinoma; viral infectious disease	Q14207	Protein NPAT
+NPHS1	T-cell antigen	3	1	II	no	brain glioblastoma multiforme	O60500	Nephrin
+NPIPB6	Cancer-testis-like	0	0		yes			
+NPIPB7	Cancer-testis-like	0	0		yes			
+NPIPB8	Cancer-testis-like	0	0		yes			
+NR0B1	Cancer-testis-like	0	0		yes			
+NR6A1	Cancer-testis-like	0	0		yes			
+NRAS	T-cell antigen	22	3	I,II	no	colorectal cancer; melanoma; colon cancer	P01111	GTPase NRas
+NRCAM	T-cell antigen	8	4	I,II	no	glioblastoma	Q92823	Neuronal cell adhesion molecule
+NSUN4	Cancer-testis-like	0	0		yes			
+NT5C1B	Cancer-testis-like	0	0		yes			
+NT5C1B-RDH14	Cancer-testis-like	0	0		yes			
+NT5C3B	T-cell antigen	1	1		no	pancreatic ductal adenocarcinoma	U3KQB1	5'-nucleotidase, cytosolic IIIB (Fragment)
+NUF2	Cancer-testis T-cell antigen	24	8	I,II	yes	head and neck cancer; lung non-small cell carcinoma; pancreatic cancer	Q9BZD4	Kinetochore protein Nuf2
+NUP155	Cancer-testis-like	0	0		yes			
+NUP210L	Cancer-testis-like	0	0		yes			
+NUPR2	Cancer-testis-like	0	0		yes			
+NUTM1	Cancer-testis-like	0	0		yes			
+NUTM2F	Cancer-testis-like	0	0		yes			
+NXF2B	Cancer-testis-like	0	0		yes			
+OAZ3	Cancer-testis-like	0	0		yes			
+OCA2	T-cell antigen	1	1	I	no	skin melanoma	Q04671	P protein
+ODAD1	Cancer-testis-like	0	0		yes			
+ODAD4	Cancer-testis-like	0	0		yes			
+ODF1	Cancer-testis-like	0	0		yes			
+ODF2	Cancer-testis-like	0	0		yes			
+ODF3	Cancer-testis-like	0	0		yes			
+ODF3L1	Cancer-testis-like	0	0		yes			
+ODF3L2	Cancer-testis-like	0	0		yes			
+ODF4	Cancer-testis-like	0	0		yes			
+OLIG2	T-cell antigen	1	1	I	no	glioblastoma	Q13516	Oligodendrocyte transcription factor 2
+OOEP	Cancer-testis-like	0	0		yes			
+OOSP2	Cancer-testis T-cell antigen	1	1		yes	brain glioblastoma multiforme	Q86WS3	Oocyte-secreted protein 2
+OPN5	Cancer-testis-like	0	0		yes			
+OPRL1	Cancer-testis-like	0	0		yes			
+OR10J1	Cancer-testis-like	0	0		yes			
+OR14A2	Cancer-testis-like	0	0		yes			
+OR1R1P	Cancer-testis-like	0	0		yes			
+OR2H1	Cancer-testis-like	0	0		yes			
+OR2T4	T-cell antigen	2	1		no	pancreatic ductal adenocarcinoma	Q8NH00	Olfactory receptor 2T4
+OR4C11	T-cell antigen	1	1	I	no	ovarian cancer	Q6IEV9	Olfactory receptor 4C11
+OR4C3	T-cell antigen	3	1	I,II	no	brain glioblastoma multiforme	Q8NH37	Olfactory receptor 4C3
+OR4M2-OT1	Cancer-testis-like	0	0		yes			
+OR4N2	Cancer-testis-like	0	0		yes			
+OR4N4	Cancer-testis-like	0	0		yes			
+OR4N4C	Cancer-testis-like	0	0		yes			
+OR51E1	T-cell antigen	6	1	I	no	prostate cancer	Q8TCB6	Olfactory receptor 51E1
+OR52D1	Cancer-testis-like	0	0		yes			
+OR52N1	T-cell antigen	1	1		no	brain glioblastoma multiforme	Q8NH53	Olfactory receptor 52N1
+OR5P2	T-cell antigen	1	1		no	brain glioblastoma multiforme	Q8WZ92	Olfactory receptor 5P2
+OR5T3	T-cell antigen	4	1	I,II	no	brain glioblastoma multiforme	Q8NGG3	Olfactory receptor 5T3
+OR7E24	Cancer-testis-like	0	0		yes			
+OR8B2	Cancer-testis-like	0	0		yes			
+OR8G5	Cancer-testis-like	0	0		yes			
+ORMDL1	T-cell antigen	1	1	I	no	glioblastoma	Q9P0S3	ORM1-like protein 1
+ORMDL3	T-cell antigen	3	1	I	no	pancreatic ductal adenocarcinoma	Q8N138	ORM1-like protein 3
+OTOA	Cancer-testis-like	0	0		yes			
+OTOP2	Cancer-testis-like	0	0		yes			
+OTUB2	Cancer-testis-like	0	0		yes			
+OTUD6A	Cancer-testis-like	0	0		yes			
+OVOL3	Cancer-testis-like	0	0		yes			
+OXCT2	Cancer-testis-like	0	0		yes			
+P2RX5	T-cell antigen	1	1	I	no	ovarian cancer	Q93086	P2X purinoceptor 5
+P3R3URF	Cancer-testis-like	0	0		yes			
+P3R3URF-PIK3R3	Cancer-testis-like	0	0		yes			
+PABIR3	T-cell antigen	5	1	I	no	Merkel cell carcinoma; viral infectious disease	Q6P4D5	PABIR family member 1
+PABPC1	T-cell antigen	1	1	I	no	skin melanoma	P11940	Polyadenylate-binding protein 1
+PABPC3	Cancer-testis-like	0	0		yes			
+PADI4	T-cell antigen	1	1		no	pancreatic ductal adenocarcinoma	Q9UM07	Protein-arginine deiminase type-4
+PAGE1	Cancer-testis-like	0	0		yes			
+PAGE2	Cancer-testis-like	0	0		yes			
+PAGE2B	Cancer-testis-like	0	0		yes			
+PAGE3	Cancer-testis-like	0	0		yes			
+PAGE4	Cancer-testis T-cell antigen	11	1	I	yes	prostate cancer	O60829	P antigen family member 4
+PAGE5	Cancer-testis-like	0	0		yes			
+PAPOLB	Cancer-testis-like	0	0		yes			
+PARP3	T-cell antigen	1	1	I	no	chronic lymphocytic leukemia	Q9Y6F1	Protein mono-ADP-ribosyltransferase PARP3
+PASD1	Cancer-testis T-cell antigen	12	2	I,II	yes	colorectal cancer; myeloid leukemia	Q8IV76	Circadian clock protein PASD1
+PBK	Cancer-testis T-cell antigen	1	1	I	yes	invasive ductal carcinoma	Q96KB5	Lymphokine-activated killer T-cell-originated protein kinase
+PCARE	T-cell antigen	1	1	I	no	skin melanoma	A6NGG8	Photoreceptor cilium actin regulator
+PCDHGC5	T-cell antigen	2	1	I	no	glioblastoma	Q9Y5F6	Protocadherin gamma-C5
+PCNP	T-cell antigen	1	1	I	no	brain glioma	Q8WW12	PEST proteolytic signal-containing nuclear protein
+PCNX3	T-cell antigen	1	1	I	no	glioblastoma	Q9H6A9	Pecanex-like protein 3
+PCP2	Cancer-testis-like	0	0		yes			
+PCSK4	Cancer-testis-like	0	0		yes			
+PCSK5	T-cell antigen	2	1	I	no	brain glioblastoma multiforme	Q92824	Proprotein convertase subtilisin/kexin type 5
+PDCD7	T-cell antigen	1	1	I	no	hepatocellular carcinoma	Q8N8D1	Programmed cell death protein 7
+PDCL2	Cancer-testis-like	0	0		yes			
+PDE4DIP	T-cell antigen	1	1		no	pancreatic ductal adenocarcinoma	Q5VU43	Myomegalin
+PDHA2	Cancer-testis-like	0	0		yes			
+PDZD9	Cancer-testis-like	0	0		yes			
+PEBP4	T-cell antigen	11	1	I	no	breast cancer	Q96S96	Phosphatidylethanolamine-binding protein 4
+PEDS1	T-cell antigen	22	13	I	no	castration-resistant prostate carcinoma; cervical squamous cell carcinoma; gastric adenocarcinoma	A5PLL7	Plasmanylethanolamine desaturase 1
+PEDS1-UBE2V1	T-cell antigen	3	2	I	no	prostate adenocarcinoma; prostate cancer	I3L0A0	PEDS1-UBE2V1 readthrough
+PEG10	T-cell antigen	1	1	II	no	head and neck squamous cell carcinoma	Q86TG7	Retrotransposon-derived protein PEG10
+PFN3	Cancer-testis-like	0	0		yes			
+PFN4	Cancer-testis-like	0	0		yes			
+PGK1	T-cell antigen	2	2	I	no	melanoma; skin melanoma	P00558	Phosphoglycerate kinase 1
+PGK2	Cancer-testis-like	0	0		yes			
+PHB1	T-cell antigen	1	1	I	no	skin melanoma	P35232	Prohibitin 1
+PHF24	Cancer-testis-like	0	0		yes			
+PHF7	Cancer-testis-like	0	0		yes			
+PHKG2	Cancer-testis-like	0	0		yes			
+PHLDA1	T-cell antigen	1	1	I	no	colorectal adenocarcinoma	Q8WV24	Pleckstrin homology-like domain family A member 1
+PHLPP2	T-cell antigen	1	1	I	no	colorectal adenocarcinoma	Q6ZVD8	PH domain leucine-rich repeat-containing protein phosphatase 2
+PHOSPHO1	Cancer-testis-like	0	0		yes			
+PHOX2A	T-cell antigen	1	1	II	no	brain glioblastoma multiforme	O14813	Paired mesoderm homeobox protein 2A
+PHRF1	T-cell antigen	1	1	I	no	skin melanoma	Q9P1Y6	PHD and RING finger domain-containing protein 1
+PI4K2B	T-cell antigen	1	1	II	no	cancer	Q8TCG2	Phosphatidylinositol 4-kinase type 2-beta
+PIAS1	T-cell antigen	3	1	I	no	breast cancer	O75925	E3 SUMO-protein ligase PIAS1
+PIAS2	Cancer-testis-like	0	0		yes			
+PIAS3	T-cell antigen	13	1	I	no	breast cancer	Q9Y6X2	E3 SUMO-protein ligase PIAS3
+PIH1D2	Cancer-testis-like	0	0		yes			
+PIK3CB	T-cell antigen	1	1	I	no	skin melanoma	P42338	Phosphatidylinositol 4,5-bisphosphate 3-kinase catalytic subunit beta isoform
+PIK3CD	T-cell antigen	1	1		no	pancreatic ductal adenocarcinoma	O00329	Phosphatidylinositol 4,5-bisphosphate 3-kinase catalytic subunit delta isoform
+PIK3R5	T-cell antigen	2	1	I	no	brain glioblastoma multiforme	X6R3K3	
+PIM1	T-cell antigen	3	1	I	no	healthy; multiple myeloma	P11309	Serine/threonine-protein kinase pim-1
+PITPNM1	T-cell antigen	1	1	I	no	skin melanoma	O00562	Membrane-associated phosphatidylinositol transfer protein 1
+PIWIL1	Cancer-testis-like	0	0		yes			
+PIWIL2	Cancer-testis-like	0	0		yes			
+PJA2	T-cell antigen	1	1	I	no	glioblastoma	O43164	E3 ubiquitin-protein ligase Praja-2
+PKD2	T-cell antigen	1	1	I	no	invasive ductal carcinoma	Q13563	Polycystin-2
+PKDREJ	Cancer-testis-like	0	0		yes			
+PLAAT1	Cancer-testis-like	0	0		yes			
+PLAC1	T-cell antigen	5	2	I,II	no	colorectal carcinoma; head and neck squamous cell carcinoma	Q9HBJ0	Placenta-specific protein 1
+PLAC8L1	Cancer-testis-like	0	0		yes			
+PLAUR	T-cell antigen	1	1	I	no	transverse colon cancer	Q03405	Urokinase plasminogen activator surface receptor
+PLCB4	T-cell antigen	1	1		no	pancreatic ductal adenocarcinoma	Q15147	1-phosphatidylinositol 4,5-bisphosphate phosphodiesterase beta-4
+PLCD3	T-cell antigen	6	1	I	no	acute lymphoblastic leukemia	Q8N3E9	1-phosphatidylinositol 4,5-bisphosphate phosphodiesterase delta-3
+PLCZ1	Cancer-testis T-cell antigen	2	1	I	yes	brain glioblastoma multiforme	Q86YW0	1-phosphatidylinositol 4,5-bisphosphate phosphodiesterase zeta-1
+PLD5	T-cell antigen	1	1	I	no	skin melanoma	Q8N7P1	Inactive phospholipase D5
+PLEC	T-cell antigen	1	1	II	no	melanoma	Q15149	Plectin
+PLEKHA4	T-cell antigen	2	1	I	no	glioblastoma	Q9H4M7	Pleckstrin homology domain-containing family A member 4
+PLIN2	T-cell antigen	7	3	I	no	chronic lymphocytic leukemia; renal carcinoma; melanoma	Q99541	Perilipin-2
+PLIN4	T-cell antigen	1	1		no	pancreatic ductal adenocarcinoma	Q96Q06	Perilipin-4
+PLK4	Cancer-testis-like	0	0		yes			
+PLSCR2	Cancer-testis-like	0	0		yes			
+PLXNB2	T-cell antigen	1	1	II	no	melanoma	O15031	Plexin-B2
+PMEL	T-cell antigen	246	52	I,II	no	melanoma; skin melanoma; ovarian cancer	P40967	Melanocyte protein PMEL
+PNMA3	Cancer-testis-like	0	0		yes			
+PNMA5	Cancer-testis-like	0	0		yes			
+PNN	T-cell antigen	1	1	I	no	chronic myeloid leukemia	Q9H307	Pinin
+POC1B	T-cell antigen	2	1		no	lung non-small cell carcinoma	Q8TC44	POC1 centriolar protein homolog B
+POLE	T-cell antigen	1	1	I	no	endometrial cancer	Q07864	DNA polymerase epsilon catalytic subunit A
+POLR1B	T-cell antigen	1	1	II	no	melanoma	Q9H9Y6	DNA-directed RNA polymerase I subunit RPA2
+POLR2A	T-cell antigen	1	1		no	pancreatic ductal adenocarcinoma	P24928	DNA-directed RNA polymerase II subunit RPB1
+POM121L12	Cancer-testis-like	0	0		yes			
+POM121L2	Cancer-testis-like	0	0		yes			
+PORCN	T-cell antigen	1	1	I	no	skin melanoma	Q9H237	Protein-serine O-palmitoleoyltransferase porcupine
+POSTN	T-cell antigen	1	1	I	no	ovarian carcinoma	Q15063	Periostin
+POTEA	Cancer-testis-like	0	0		yes			
+POTEB	Cancer-testis-like	0	0		yes			
+POTEB2	Cancer-testis-like	0	0		yes			
+POTEB3	Cancer-testis-like	0	0		yes			
+POTEC	Cancer-testis-like	0	0		yes			
+POTED	Cancer-testis-like	0	0		yes			
+POTEF	Cancer-testis T-cell antigen	4	2	I,II	yes	brain glioblastoma multiforme; pancreatic ductal adenocarcinoma	A5A3E0	POTE ankyrin domain family member F
+POTEH	Cancer-testis T-cell antigen	2	1		yes	pancreatic ductal adenocarcinoma	Q6S545	POTE ankyrin domain family member H
+POTEI	Cancer-testis T-cell antigen	2	1	I	yes	hepatocellular carcinoma	P0CG38	POTE ankyrin domain family member I
+POTEM	Cancer-testis-like	0	0		yes			
+PP2D1	Cancer-testis-like	0	0		yes			
+PPAN	T-cell antigen	1	1	I	no	melanoma	Q9NQ55	Suppressor of SWI4 1 homolog
+PPEF1	Cancer-testis-like	0	0		yes			
+PPFIBP1	T-cell antigen	1	1	I	no	skin melanoma	Q86W92	Liprin-beta-1
+PPIB	T-cell antigen	31	14	I	no	prostate adenocarcinoma; castration-resistant prostate carcinoma; prostate cancer	P23284	Peptidyl-prolyl cis-trans isomerase B
+PPIC	T-cell antigen	1	1	I	no	cholangiocarcinoma	P45877	Peptidyl-prolyl cis-trans isomerase C
+PPM1E	Cancer-testis-like	0	0		yes			
+PPP1R2B	Cancer-testis-like	0	0		yes			
+PPP1R2C	Cancer-testis-like	0	0		yes			
+PPP1R42	Cancer-testis-like	0	0		yes			
+PPP2R2B	Cancer-testis-like	0	0		yes			
+PPP3R2	Cancer-testis-like	0	0		yes			
+PPP4R3C	Cancer-testis-like	0	0		yes			
+PRAME	Cancer-testis T-cell antigen	13	7	I	yes	melanoma; prostate cancer; lung cancer	P78395	Melanoma antigen preferentially expressed in tumors
+PRAMEF15	T-cell antigen	2	1	I	no	brain glioblastoma multiforme	P0DUQ1	PRAME family member 15
+PRAMEF4	T-cell antigen	2	1	I	no	brain glioblastoma multiforme	O60810	PRAME family member 4
+PRDM9	Cancer-testis-like	0	0		yes			
+PRDX4	T-cell antigen	1	1	I	no	brain glioma	Q13162	Peroxiredoxin-4
+PRDX5	T-cell antigen	1	1	I	no	melanoma	P30044-4	Isoform 4 of Peroxiredoxin-5, mitochondrial
+PRDX6	T-cell antigen	1	1	I	no	urinary bladder cancer	P30041	Peroxiredoxin-6
+PRELID1	T-cell antigen	1	1	I	no	skin melanoma	Q9Y255	PRELI domain-containing protein 1, mitochondrial
+PRH1	Cancer-testis-like	0	0		yes			
+PRICKLE2	T-cell antigen	1	1		no	pancreatic ductal adenocarcinoma	Q7Z3G6	Prickle-like protein 2
+PRICKLE3	T-cell antigen	2	1	I	no	melanoma	O43900	Prickle planar cell polarity protein 3
+PRKACG	Cancer-testis-like	0	0		yes			
+PRKRA	T-cell antigen	1	1		no	brain glioblastoma multiforme	O75569	Interferon-inducible double-stranded RNA-dependent protein kinase activator A
+PRL	T-cell antigen	3	1	I	no	breast cancer	P01236	Prolactin
+PRM1	Cancer-testis-like	0	0		yes			
+PRM2	Cancer-testis-like	0	0		yes			
+PRM3	Cancer-testis-like	0	0		yes			
+PRND	Cancer-testis-like	0	0		yes			
+PROCA1	Cancer-testis-like	0	0		yes			
+PRPS1L1	Cancer-testis-like	0	0		yes			
+PRR19	Cancer-testis-like	0	0		yes			
+PRR20G	Cancer-testis-like	0	0		yes			
+PRR22	Cancer-testis-like	0	0		yes			
+PRR23A	Cancer-testis-like	0	0		yes			
+PRR23B	Cancer-testis-like	0	0		yes			
+PRR23D2	Cancer-testis-like	0	0		yes			
+PRR30	Cancer-testis-like	0	0		yes			
+PRSS21	Cancer-testis-like	0	0		yes			
+PRSS22	T-cell antigen	1	1		no	pancreatic ductal adenocarcinoma	Q9GZN4	Brain-specific serine protease 4
+PRSS3	T-cell antigen	2	1		no	pancreatic ductal adenocarcinoma	P35030,P35030-4	Isoform 4 of Trypsin-3
+PRSS37	Cancer-testis-like	0	0		yes			
+PRSS38	Cancer-testis-like	0	0		yes			
+PRSS50	Cancer-testis T-cell antigen	4	1	I	yes	colon adenocarcinoma	Q9UI38	Probable threonine protease PRSS50
+PRSS54	Cancer-testis-like	0	0		yes			
+PRSS55	Cancer-testis-like	0	0		yes			
+PRSS58	Cancer-testis-like	0	0		yes			
+PRTN3	T-cell antigen	18	7	I	no	myeloid leukemia; viral infectious disease; chronic myeloid leukemia	P24158	Myeloblastin
+PRUNE2	T-cell antigen	1	1	I	no	renal carcinoma	A0A088AWP5	
+PSCA	T-cell antigen	36	4	I	no	prostate cancer	O43653	Prostate stem cell antigen
+PSD	T-cell antigen	1	1		no	pancreatic ductal adenocarcinoma	A5PKW4	PH and SEC7 domain-containing protein 1
+PSMA8	Cancer-testis-like	0	0		yes			
+PSMD9	T-cell antigen	1	1	I	no	brain glioma	O00233	26S proteasome non-ATPase regulatory subunit 9
+PSME3	T-cell antigen	1	1	I	no	chronic myeloid leukemia	P61289	Proteasome activator complex subunit 3
+PSME4	T-cell antigen	1	1	I	no	skin melanoma	Q14997	Proteasome activator complex subunit 4
+PSORS1C1	Cancer-testis-like	0	0		yes			
+PTCH2	T-cell antigen	1	1	I	no	glioblastoma	Q9Y6C5	Protein patched homolog 2
+PTCHD3	Cancer-testis-like	0	0		yes			
+PTGS2	T-cell antigen	3	1	II	no	colorectal cancer	P35354	Prostaglandin G/H synthase 2
+PTHLH	T-cell antigen	28	9	I	no	prostate cancer; prostate carcinoma; castration-resistant prostate carcinoma	P12272	Parathyroid hormone-related protein
+PTK2B	T-cell antigen	1	1	II	no	cancer	Q14289	Protein-tyrosine kinase 2-beta
+PTPN12	T-cell antigen	1	1		no	collecting duct carcinoma	Q05209	Tyrosine-protein phosphatase non-receptor type 12
+PTPN3	T-cell antigen	1	1		no	brain glioblastoma multiforme	P26045	Tyrosine-protein phosphatase non-receptor type 3
+PTPRU	T-cell antigen	2	1	I	no	melanoma	Q92729	Receptor-type tyrosine-protein phosphatase U
+PTPRZ1	T-cell antigen	30	4	I,II	no	glioblastoma; malignant astrocytoma	P23471	Receptor-type tyrosine-protein phosphatase zeta
+PTTG1IP2	Cancer-testis-like	0	0		yes			
+PTX4	T-cell antigen	1	1		no	pancreatic ductal adenocarcinoma	H3BSQ8	Pentraxin 4
+PXDN	T-cell antigen	3	1	I	no	skin melanoma	Q92626	Peroxidasin homolog
+PXT1	Cancer-testis-like	0	0		yes			
+RAB38	T-cell antigen	2	2	I	no	melanoma; skin melanoma	P57729	Ras-related protein Rab-38
+RAB7B	T-cell antigen	5	2	I	no	endometrial cancer; pancreatic cancer	Q96AH8	Ras-related protein Rab-7b
+RAD21L1	Cancer-testis-like	0	0		yes			
+RAD51AP2	Cancer-testis-like	0	0		yes			
+RAD54B	T-cell antigen	2	1	I	no	glioblastoma	Q9Y620	DNA repair and recombination protein RAD54B
+RAD9B	Cancer-testis-like	0	0		yes			
+RAP1GAP	T-cell antigen	1	1		no	pancreatic ductal adenocarcinoma	P47736	Rap1 GTPase-activating protein 1
+RASAL2	T-cell antigen	2	1	I	no	pancreatic ductal adenocarcinoma	Q9UJF2	Ras GTPase-activating protein nGAP
+RASGRF1	T-cell antigen	2	2	I	no	chronic lymphocytic leukemia	Q13972	Ras-specific guanine nucleotide-releasing factor 1
+RBAK-RBAKDN	Cancer-testis-like	0	0		yes			
+RBBP4	T-cell antigen	1	1	I	no	skin melanoma	Q09028	Histone-binding protein RBBP4
+RBL2	T-cell antigen	1	1	I	no	skin melanoma	Q08999	Retinoblastoma-like protein 2
+RBM44	Cancer-testis-like	0	0		yes			
+RBM46	Cancer-testis-like	0	0		yes			
+RBMXL2	Cancer-testis-like	0	0		yes			
+RBMXL3	Cancer-testis T-cell antigen	1	1		yes	pancreatic ductal adenocarcinoma	Q8N7X1	RNA-binding motif protein, X-linked-like-3
+RBMY1A1	Cancer-testis-like	0	0		yes			
+RBMY1D	Cancer-testis-like	0	0		yes			
+RBMY1E	Cancer-testis-like	0	0		yes			
+RBMY1F	Cancer-testis-like	0	0		yes			
+RBMY1J	Cancer-testis-like	0	0		yes			
+RBPJ	T-cell antigen	4	1	II	no	triple-negative breast cancer	Q06330	Recombining binding protein suppressor of hairless
+RCAN1	T-cell antigen	1	1	I	no	glioblastoma	P53805	Calcipressin-1
+RDM1	Cancer-testis-like	0	0		yes			
+REC114	Cancer-testis-like	0	0		yes			
+REEP5	T-cell antigen	1	1	I	no	skin melanoma	Q00765	Receptor expression-enhancing protein 5
+REXO5	Cancer-testis-like	0	0		yes			
+RFPL3	Cancer-testis-like	0	0		yes			
+RFPL4B	Cancer-testis-like	0	0		yes			
+RFX4	Cancer-testis-like	0	0		yes			
+RGPD1	Cancer-testis-like	0	0		yes			
+RGS22	Cancer-testis-like	0	0		yes			
+RGS5	T-cell antigen	3	2	I,II	no	bile duct adenocarcinoma; renal carcinoma	O15539	Regulator of G protein signaling 5
+RGSL1	Cancer-testis-like	0	0		yes			
+RHCE	T-cell antigen	1	1		no	pancreatic ductal adenocarcinoma	P18577	Blood group Rh(CE) polypeptide
+RHOA	T-cell antigen	1	1	I	no	urinary bladder cancer	C9JX21	Ras homolog family member A
+RHOC	T-cell antigen	22	1	I,II	no	prostate cancer	P08134	Rho-related GTP-binding protein RhoC
+RHOXF2	Cancer-testis-like	0	0		yes			
+RHOXF2B	Cancer-testis-like	0	0		yes			
+RIBC2	Cancer-testis-like	0	0		yes			
+RIMBP3	Cancer-testis-like	0	0		yes			
+RIMBP3B	Cancer-testis-like	0	0		yes			
+RIMBP3C	Cancer-testis-like	0	0		yes			
+RINT1	T-cell antigen	1	1	I	no	skin melanoma	Q6NUQ1	RAD50-interacting protein 1
+RND3	T-cell antigen	5	1	I	no	Merkel cell carcinoma; viral infectious disease	P61587	Rho-related GTP-binding protein RhoE
+RNF113B	Cancer-testis-like	0	0		yes			
+RNF126	T-cell antigen	1	1		no	pancreatic ductal adenocarcinoma	Q9BV68	E3 ubiquitin-protein ligase RNF126
+RNF133	Cancer-testis-like	0	0		yes			
+RNF148	Cancer-testis-like	0	0		yes			
+RNF151	Cancer-testis-like	0	0		yes			
+RNF17	Cancer-testis-like	0	0		yes			
+RNF32	Cancer-testis-like	0	0		yes			
+RNF38	T-cell antigen	1	1		no	Merkel cell carcinoma	Q9H0F5	E3 ubiquitin-protein ligase RNF38
+RNF43	T-cell antigen	3	2	I	no	colorectal adenocarcinoma; colorectal cancer	Q68DV7	E3 ubiquitin-protein ligase RNF43
+RNFT2	Cancer-testis T-cell antigen	1	1	II	yes	breast adenocarcinoma	Q96EX2	E3 ubiquitin-protein ligase RNFT2
+ROCK2	T-cell antigen	1	1	I	no	glioblastoma	O75116	Rho-associated protein kinase 2
+ROPN1	Cancer-testis-like	0	0		yes			
+ROPN1B	Cancer-testis-like	0	0		yes			
+ROPN1L	Cancer-testis-like	0	0		yes			
+ROR1	T-cell antigen	17	2	I,II	no	chronic lymphocytic leukemia; head and neck squamous cell carcinoma	Q01973	Inactive tyrosine-protein kinase transmembrane receptor ROR1
+ROS1	T-cell antigen	1	1	I	no	chronic myeloid leukemia	P08922	Proto-oncogene tyrosine-protein kinase ROS
+RP1L1	T-cell antigen	1	1		no	pancreatic ductal adenocarcinoma	Q8IWN7	Retinitis pigmentosa 1-like 1 protein
+RPGRIP1	Cancer-testis-like	0	0		yes			
+RPL10L	Cancer-testis-like	0	0		yes			
+RPL39L	Cancer-testis-like	0	0		yes			
+RPL5	T-cell antigen	1	1	I	no	skin melanoma	P46777	Large ribosomal subunit protein uL18
+RPL7A	T-cell antigen	3	2	I,II	no	breast adenocarcinoma; glioblastoma	P62424	Large ribosomal subunit protein eL8
+RPS4Y2	Cancer-testis-like	0	0		yes			
+RPS9	T-cell antigen	1	1	II	no	melanoma	P46781	Small ribosomal subunit protein uS4
+RSPH6A	Cancer-testis-like	0	0		yes			
+RTL9	Cancer-testis-like	0	0		yes			
+RTP2	Cancer-testis-like	0	0		yes			
+S100A7A	T-cell antigen	1	1	II	no	invasive ductal carcinoma	Q86SG5	Protein S100-A7A
+S100A8	T-cell antigen	1	1	I	no	invasive ductal carcinoma	P05109	Protein S100-A8
+S100A9	T-cell antigen	1	1	I	no	invasive ductal carcinoma	P06702	Protein S100-A9
+SACK1H	T-cell antigen	1	1	II	no	brain glioblastoma multiforme	Q6ZRV2	Protein FAM83H
+SAGE1	Cancer-testis-like	0	0		yes			
+SALL4	T-cell antigen	1	1	I	no	gastrointestinal carcinoma	Q9UJQ4	Sal-like protein 4
+SART1	T-cell antigen	6	4	I	no	prostate adenocarcinoma; prostate cancer; melanoma	O43290	U4/U6.U5 tri-snRNP-associated protein 1
+SART3	T-cell antigen	139	25	I	no	prostate cancer; castration-resistant prostate carcinoma; esophageal cancer	Q15020	Spliceosome associated factor 3, U4/U6 recycling protein
+SASH1	T-cell antigen	1	1	I	no	skin melanoma	O94885	SAM and SH3 domain-containing protein 1
+SATB1	T-cell antigen	2	1	I	no	ovarian cancer; prostate cancer	Q01826	DNA-binding protein SATB1
+SAXO1	Cancer-testis-like	0	0		yes			
+SAXO2	Cancer-testis-like	0	0		yes			
+SBSN	T-cell antigen	1	1		no	pancreatic ductal adenocarcinoma	Q6UWP8	Suprabasin
+SCGB2A2	T-cell antigen	32	3	I,II	no	breast cancer	Q13296	Mammaglobin-A
+SCN4A	T-cell antigen	1	1	I	no	skin melanoma	P35499	Sodium channel protein type 4 subunit alpha
+SCN5A	T-cell antigen	2	1	I	no	brain glioblastoma multiforme	E9PG18	Sodium channel protein
+SCP2D1	Cancer-testis-like	0	0		yes			
+SCRN1	T-cell antigen	1	1	I	no	skin melanoma	Q12765	Secernin-1
+SDC1	T-cell antigen	2	1	I	no	smoldering myeloma	P18827	Syndecan-1
+SEC31A	T-cell antigen	1	1	I	no	skin melanoma	O94979	Protein transport protein Sec31A
+SEL1L2	Cancer-testis-like	0	0		yes			
+SELENOV	Cancer-testis T-cell antigen	2	1		yes	pancreatic ductal adenocarcinoma	P59797	Selenoprotein V
+SEMA3G	T-cell antigen	1	1	I	no	ovarian cancer	Q9NS98	Semaphorin-3G
+SEPTIN12	Cancer-testis-like	0	0		yes			
+SEPTIN14	Cancer-testis-like	0	0		yes			
+SERPINA13P	T-cell antigen	1	1		no	pancreatic ductal adenocarcinoma	Q6UXR4	Putative serpin A13
+SERPINB12	T-cell antigen	1	1	I	no	brain glioma	Q96P63	Serpin B12
+SERPINB3	T-cell antigen	1	1	I	no	hepatocellular carcinoma	P29508	Serpin B3
+SERPINB4	T-cell antigen	1	1	I	no	hepatocellular carcinoma	P48594	Serpin B4
+SERPINE2	T-cell antigen	1	1	I	no	skin melanoma	P07093	Glia-derived nexin
+SERPINH1	T-cell antigen	2	1	I	no	glioblastoma	P50454	Serpin H1
+SERPINI2	T-cell antigen	1	1	I	no	hepatocellular carcinoma	O75830	Serpin I2
+SETBP1	T-cell antigen	1	1	II	no	glioblastoma	Q9Y6X0	SET-binding protein
+SETDB1	T-cell antigen	2	1	I	no	hepatocellular carcinoma	Q15047	Histone-lysine N-methyltransferase SETDB1
+SEZ6L	T-cell antigen	2	1	I	no	glioblastoma	Q9BYH1	Seizure 6-like protein
+SGCE	T-cell antigen	1	1	II	no	chronic lymphocytic leukemia	O43556	Epsilon-sarcoglycan
+SH2D6	Cancer-testis-like	0	0		yes			
+SH2D7	Cancer-testis-like	0	0		yes			
+SH3GL3	Cancer-testis-like	0	0		yes			
+SH3TC2	Cancer-testis-like	0	0		yes			
+SHCBP1L	Cancer-testis-like	0	0		yes			
+SHOC1	Cancer-testis-like	0	0		yes			
+SIGLECL1	Cancer-testis-like	0	0		yes			
+SIN3A	T-cell antigen	3	1	II	no	glioblastoma	Q96ST3	Paired amphipathic helix protein Sin3a
+SIPA1L3	T-cell antigen	1	1	I	no	chronic lymphocytic leukemia	O60292	Signal-induced proliferation-associated 1-like protein 3
+SIRPD	Cancer-testis T-cell antigen	1	1	I	yes	lung adenocarcinoma	Q9H106	Signal-regulatory protein delta
+SIRPG	T-cell antigen	2	1	II	no	brain glioblastoma multiforme	Q9P1W8	Signal-regulatory protein gamma
+SIRT2	T-cell antigen	3	1	I	no	skin melanoma	Q8IXJ6	NAD-dependent protein deacetylase sirtuin-2
+SLAMF7	T-cell antigen	10	3	I	no	multiple myeloma; smoldering myeloma	Q9NQ25,Q9NQ25-3	Isoform 3 of SLAM family member 7
+SLC1A3	T-cell antigen	1	1	I	no	glioblastoma	P43003	Excitatory amino acid transporter 1
+SLC22A14	Cancer-testis-like	0	0		yes			
+SLC22A16	Cancer-testis T-cell antigen	2	1	I	yes	brain glioblastoma multiforme	Q86VW1	Solute carrier family 22 member 16
+SLC24A5	T-cell antigen	1	1	I	no	skin melanoma	Q71RS6	Sodium/potassium/calcium exchanger 5
+SLC25A2	Cancer-testis-like	0	0		yes			
+SLC25A23	T-cell antigen	1	1		no	pancreatic ductal adenocarcinoma	Q9BV35-3	Isoform 3 of Mitochondrial adenyl nucleotide antiporter SLC25A23
+SLC25A31	Cancer-testis-like	0	0		yes			
+SLC25A5	T-cell antigen	1	1	I	no	skin melanoma	P05141	ADP/ATP translocase 2
+SLC25A52	Cancer-testis-like	0	0		yes			
+SLC26A8	Cancer-testis-like	0	0		yes			
+SLC27A3	T-cell antigen	1	1		no	collecting duct carcinoma	Q5K4L6	Long-chain fatty acid transport protein 3
+SLC2A13	T-cell antigen	1	1	I	no	skin melanoma	Q96QE2	Proton myo-inositol cotransporter
+SLC2A14	Cancer-testis-like	0	0		yes			
+SLC30A3	Cancer-testis-like	0	0		yes			
+SLC35D4	T-cell antigen	4	1	I,II	no	brain glioblastoma multiforme	Q24JQ0	UDP-N-acetylglucosamine transporter SLC35D4
+SLC35G3	Cancer-testis-like	0	0		yes			
+SLC35G5	Cancer-testis-like	0	0		yes			
+SLC35G6	Cancer-testis-like	0	0		yes			
+SLC36A3	Cancer-testis-like	0	0		yes			
+SLC45A3	T-cell antigen	3	2	I	no	prostate cancer	Q96JT2	Solute carrier family 45 member 3
+SLC4A5	Cancer-testis-like	0	0		yes			
+SLC4A8	Cancer-testis-like	0	0		yes			
+SLC5A10	T-cell antigen	4	1	I	no	lymphoid leukemia	A0PJK1	Sodium/mannose cotransporter SLC5A10
+SLC5A11	T-cell antigen	4	1	I	no	lymphoid leukemia	Q8WWX8	Sodium/myo-inositol cotransporter 2
+SLC5A4	T-cell antigen	1	1	I	no	lymphoid leukemia	Q9NY91	Probable glucose sensor protein SLC5A4
+SLC5A9	T-cell antigen	4	1	I	no	lymphoid leukemia	Q2M3M2	Sodium/glucose cotransporter 4
+SLC6A16	Cancer-testis-like	0	0		yes			
+SLC6A8	T-cell antigen	2	1		no	brain glioblastoma multiforme	P48029	Sodium- and chloride-dependent creatine transporter 1
+SLC9B1	Cancer-testis-like	0	0		yes			
+SLC9C1	Cancer-testis-like	0	0		yes			
+SLC9C2	Cancer-testis-like	0	0		yes			
+SLCO6A1	Cancer-testis-like	0	0		yes			
+SLFN12L	T-cell antigen	1	1	II	no	brain glioblastoma multiforme	Q6IEE8	Schlafen family member 12-like
+SLFNL1	Cancer-testis-like	0	0		yes			
+SLITRK1	T-cell antigen	1	1		no	pancreatic ductal adenocarcinoma	Q96PX8	SLIT and NTRK-like protein 1
+SMARCA5	T-cell antigen	1	1		no	colorectal cancer	O60264	SWI/SNF-related matrix-associated actin-dependent regulator of chromatin subfamily A member 5
+SMC1B	Cancer-testis T-cell antigen	1	1		yes	pancreatic ductal adenocarcinoma	Q8NDV3	Structural maintenance of chromosomes protein 1B
+SMC4	T-cell antigen	2	1	I	no	glioblastoma	Q9NTJ3	Structural maintenance of chromosomes protein 4
+SMCP	Cancer-testis-like	0	0		yes			
+SMG1	T-cell antigen	1	1		no	collecting duct carcinoma	Q96Q15	Serine/threonine-protein kinase SMG1
+SMIM2	Cancer-testis-like	0	0		yes			
+SMIM21	Cancer-testis-like	0	0		yes			
+SMIM23	Cancer-testis-like	0	0		yes			
+SMIM36	Cancer-testis-like	0	0		yes			
+SMIM42	Cancer-testis-like	0	0		yes			
+SMIM48	T-cell antigen	1	1	I	no	glioblastoma	A0A494C1I1	Small integral membrane protein 48
+SMKR1	Cancer-testis-like	0	0		yes			
+SNCG	T-cell antigen	1	1	I	no	brain glioma	O76070	Gamma-synuclein
+SNRNP70	T-cell antigen	1	1	I	no	chronic lymphocytic leukemia; viral infectious disease	P08621	U1 small nuclear ribonucleoprotein 70 kDa
+SNX11	T-cell antigen	3	1	I	no	Merkel cell carcinoma; viral infectious disease	J3QKV3	Sorting nexin 11
+SOCS7	Cancer-testis-like	0	0		yes			
+SOHLH1	Cancer-testis-like	0	0		yes			
+SOHLH2	Cancer-testis-like	0	0		yes			
+SOX10	T-cell antigen	1	1	I	no	melanoma	P56693	Transcription factor SOX-10
+SOX2	T-cell antigen	2	1	I	no	melanoma	P48431	Transcription factor SOX-2
+SOX30	Cancer-testis-like	0	0		yes			
+SPACA1	Cancer-testis-like	0	0		yes			
+SPACA3	Cancer-testis-like	0	0		yes			
+SPACA4	Cancer-testis-like	0	0		yes			
+SPACA5B	Cancer-testis-like	0	0		yes			
+SPACA7	Cancer-testis-like	0	0		yes			
+SPACA9	Cancer-testis-like	0	0		yes			
+SPACDR	Cancer-testis-like	0	0		yes			
+SPAG4	Cancer-testis-like	0	0		yes			
+SPAG6	Cancer-testis-like	0	0		yes			
+SPAG8	Cancer-testis-like	0	0		yes			
+SPAG9	T-cell antigen	1	1	I	no	chronic myeloid leukemia	O60271	C-Jun-amino-terminal kinase-interacting protein 4
+SPAM1	Cancer-testis-like	0	0		yes			
+SPANXA1	Cancer-testis-like	0	0		yes			
+SPANXA2	Cancer-testis-like	0	0		yes			
+SPANXB1	Cancer-testis-like	0	0		yes			
+SPANXC	Cancer-testis-like	0	0		yes			
+SPANXD	Cancer-testis-like	0	0		yes			
+SPANXN1	Cancer-testis-like	0	0		yes			
+SPANXN2	Cancer-testis-like	0	0		yes			
+SPANXN3	Cancer-testis-like	0	0		yes			
+SPANXN4	Cancer-testis-like	0	0		yes			
+SPANXN5	Cancer-testis-like	0	0		yes			
+SPATA12	Cancer-testis-like	0	0		yes			
+SPATA16	Cancer-testis-like	0	0		yes			
+SPATA19	Cancer-testis-like	0	0		yes			
+SPATA21	Cancer-testis-like	0	0		yes			
+SPATA22	Cancer-testis-like	0	0		yes			
+SPATA24	Cancer-testis-like	0	0		yes			
+SPATA3	Cancer-testis-like	0	0		yes			
+SPATA31A1	Cancer-testis-like	0	0		yes			
+SPATA31A3	Cancer-testis-like	0	0		yes			
+SPATA31A5	Cancer-testis-like	0	0		yes			
+SPATA31A6	Cancer-testis-like	0	0		yes			
+SPATA31A7	Cancer-testis-like	0	0		yes			
+SPATA31C1	Cancer-testis-like	0	0		yes			
+SPATA31C2	Cancer-testis-like	0	0		yes			
+SPATA31D1	Cancer-testis-like	0	0		yes			
+SPATA31D3	Cancer-testis-like	0	0		yes			
+SPATA31D4	Cancer-testis-like	0	0		yes			
+SPATA31E1	Cancer-testis-like	0	0		yes			
+SPATA31H1	T-cell antigen	2	1	I	no	hepatocellular carcinoma	Q68DN1	Spermatogenesis-associated protein 31H1
+SPATA31J1	T-cell antigen	1	1		no	pancreatic ductal adenocarcinoma	A6NFR6	Protein SPATA31J1
+SPATA32	Cancer-testis-like	0	0		yes			
+SPATA33	Cancer-testis-like	0	0		yes			
+SPATA4	Cancer-testis-like	0	0		yes			
+SPATA45	Cancer-testis-like	0	0		yes			
+SPATA46	Cancer-testis-like	0	0		yes			
+SPATA48	Cancer-testis-like	0	0		yes			
+SPATA7	Cancer-testis-like	0	0		yes			
+SPATA9	Cancer-testis-like	0	0		yes			
+SPATC1	Cancer-testis-like	0	0		yes			
+SPATS1	Cancer-testis-like	0	0		yes			
+SPDYA	Cancer-testis-like	0	0		yes			
+SPDYE1	Cancer-testis-like	0	0		yes			
+SPDYE3	Cancer-testis-like	0	0		yes			
+SPDYE4	Cancer-testis-like	0	0		yes			
+SPEF1	Cancer-testis-like	0	0		yes			
+SPEM1	Cancer-testis-like	0	0		yes			
+SPEM2	Cancer-testis-like	0	0		yes			
+SPEM3	Cancer-testis-like	0	0		yes			
+SPESP1	Cancer-testis-like	0	0		yes			
+SPG11	T-cell antigen	1	1	I	no	skin melanoma	Q96JI7	Spatacsin
+SPIRE1	T-cell antigen	2	1	I	no	acute lymphoblastic leukemia	Q08AE8	Protein spire homolog 1
+SPO11	Cancer-testis-like	0	0		yes			
+SPPL2C	Cancer-testis-like	0	0		yes			
+SPTA1	T-cell antigen	1	1	II	no	pancreatic ductal adenocarcinoma	P02549	Spectrin alpha chain, erythrocytic 1
+SPTSSB	T-cell antigen	4	1	I	no	lymphoid leukemia	Q8NFR3	Serine palmitoyltransferase small subunit B
+SPTY2D1OS	Cancer-testis-like	0	0		yes			
+SPZ1	Cancer-testis-like	0	0		yes			
+SREK1	T-cell antigen	2	1	II	no	lung non-small cell carcinoma	Q8WXA9	Splicing regulatory glutamine/lysine-rich protein 1
+SRRM5	Cancer-testis-like	0	0		yes			
+SS18	T-cell antigen	3	1	I	no	synovial sarcoma	Q15532-2	Isoform 2 of Protein SSXT
+SSMEM1	Cancer-testis-like	0	0		yes			
+SSU72P8	Cancer-testis-like	0	0		yes			
+SSX1	Cancer-testis-like	0	0		yes			
+SSX2	Cancer-testis T-cell antigen	52	10	I	yes	skin melanoma; melanoma; prostate cancer	Q16385	Protein SSX2
+SSX2B	Cancer-testis T-cell antigen	52	10	I	yes	skin melanoma; melanoma; prostate cancer	Q16385	Protein SSX2
+SSX3	Cancer-testis-like	0	0		yes			
+SSX4	Cancer-testis-like	0	0		yes			
+SSX4B	Cancer-testis-like	0	0		yes			
+SSX7	Cancer-testis T-cell antigen	1	1	I	yes	hepatocellular carcinoma	Q7RTT5	Protein SSX7
+ST6GAL1	T-cell antigen	1	1	II	no	chronic lymphocytic leukemia	P15907	Beta-galactoside alpha-2,6-sialyltransferase 1
+ST6GALNAC3	T-cell antigen	5	1	I	no	Merkel cell carcinoma; viral infectious disease	Q8NDV1	Alpha-N-acetylgalactosaminide alpha-2,6-sialyltransferase 3
+ST7L	Cancer-testis-like	0	0		yes			
+ST8SIA5	T-cell antigen	2	1	I	no	glioblastoma	O15466	Alpha-2,8-sialyltransferase 8E
+STAG3	Cancer-testis-like	0	0		yes			
+STARD6	Cancer-testis-like	0	0		yes			
+STAT1	T-cell antigen	2	2	I	no	melanoma; skin melanoma	P42224	Signal transducer and activator of transcription 1-alpha/beta
+STEAP1	T-cell antigen	13	5	I,II	no	prostate cancer; skin melanoma; melanoma	Q9UHE8	STEAP1 protein
+STEAP2	T-cell antigen	5	1	I	no	Merkel cell carcinoma; viral infectious disease	Q8NFT2	Metalloreductase STEAP2
+STIP1	T-cell antigen	1	1	I	no	brain glioma	P31948	Stress-induced-phosphoprotein 1
+STK10	T-cell antigen	5	1	I	no	Merkel cell carcinoma; viral infectious disease	O94804	Serine/threonine-protein kinase 10
+STK31	Cancer-testis-like	0	0		yes			
+STK36	T-cell antigen	5	2	I	no	prostate adenocarcinoma; prostate cancer	Q9NRP7	Serine/threonine-protein kinase 36
+STKLD1	Cancer-testis-like	0	0		yes			
+STPG3	Cancer-testis-like	0	0		yes			
+STPG4	Cancer-testis-like	0	0		yes			
+STRIP2	T-cell antigen	1	1	I	no	colorectal adenocarcinoma	Q9ULQ0	Striatin-interacting protein 2
+SULT6B1	Cancer-testis-like	0	0		yes			
+SUN3	Cancer-testis-like	0	0		yes			
+SUN5	Cancer-testis-like	0	0		yes			
+SUPT6H	T-cell antigen	1	1		no	melanoma	Q7KZ85	Transcription elongation factor SPT6
+SUPT7L	T-cell antigen	6	4	I	no	prostate cancer; prostate adenocarcinoma; pancreatic adenocarcinoma	O94864	STAGA complex 65 subunit gamma
+SUV39H2	Cancer-testis-like	0	0		yes			
+SWAP70	T-cell antigen	1	1	I	no	chronic lymphocytic leukemia	Q9UH65	Switch-associated protein 70
+SWT1	Cancer-testis-like	0	0		yes			
+SYCE1	Cancer-testis-like	0	0		yes			
+SYCE2	Cancer-testis-like	0	0		yes			
+SYCE3	Cancer-testis-like	0	0		yes			
+SYCP1	Cancer-testis-like	0	0		yes			
+SYCP2	Cancer-testis-like	0	0		yes			
+SYCP3	Cancer-testis-like	0	0		yes			
+SYNCRIP	T-cell antigen	1	1	I	no	skin melanoma	O60506	Heterogeneous nuclear ribonucleoprotein Q
+SYNGR4	Cancer-testis-like	0	0		yes			
+SYNJ2BP-COX16	Cancer-testis-like	0	0		yes			
+SZT2	T-cell antigen	1	1		no	brain glioblastoma multiforme	Q5T011	KICSTOR complex protein SZT2
+TACC3	T-cell antigen	1	1	I	no	glioblastoma	Q9Y6A5	Transforming acidic coiled-coil-containing protein 3
+TADA1	T-cell antigen	1	1		no	pancreatic ductal adenocarcinoma	Q96BN2	Transcriptional adapter 1
+TAF1B	T-cell antigen	1	1	I	no	colorectal cancer	Q53T94	TATA box-binding protein-associated factor RNA polymerase I subunit B
+TAF1L	Cancer-testis-like	0	0		yes			
+TAF7L	Cancer-testis-like	0	0		yes			
+TAGLN2	T-cell antigen	1	1	I	no	melanoma	P37802	Transgelin-2
+TAS1R1	Cancer-testis-like	0	0		yes			
+TAS2R1	Cancer-testis-like	0	0		yes			
+TAS2R46	T-cell antigen	2	1	I	no	lung adenocarcinoma	P59540	Taste receptor type 2 member 46
+TBC1D21	Cancer-testis-like	0	0		yes			
+TBC1D22A	T-cell antigen	1	1	I	no	chronic lymphocytic leukemia	Q8WUA7	TBC1 domain family member 22A
+TBC1D26	Cancer-testis-like	0	0		yes			
+TBC1D28	Cancer-testis-like	0	0		yes			
+TBC1D3F	Cancer-testis-like	0	0		yes			
+TBC1D3G	Cancer-testis-like	0	0		yes			
+TBC1D3H	Cancer-testis-like	0	0		yes			
+TBC1D3I	Cancer-testis-like	0	0		yes			
+TBRG4	T-cell antigen	1	1	II	no	brain glioblastoma multiforme	Q969Z0	FAST kinase domain-containing protein 4
+TBX18	T-cell antigen	2	1	I	no	colorectal adenocarcinoma	O95935	T-box transcription factor TBX18
+TBX22	Cancer-testis-like	0	0		yes			
+TBXT	T-cell antigen	12	2	I	no	prostate cancer; breast cancer	O15178	T-box transcription factor T
+TCEAL6	Cancer-testis-like	0	0		yes			
+TCP10L	Cancer-testis-like	0	0		yes			
+TCP11	Cancer-testis-like	0	0		yes			
+TCTE1	Cancer-testis-like	0	0		yes			
+TDRD1	Cancer-testis-like	0	0		yes			
+TDRD10	Cancer-testis-like	0	0		yes			
+TDRD12	Cancer-testis-like	0	0		yes			
+TDRD15	Cancer-testis-like	0	0		yes			
+TDRD9	Cancer-testis-like	0	0		yes			
+TEKT2	Cancer-testis-like	0	0		yes			
+TEKT3	Cancer-testis-like	0	0		yes			
+TEKT4	Cancer-testis-like	0	0		yes			
+TEKT5	Cancer-testis-like	0	0		yes			
+TENM3	T-cell antigen	3	2	I,II	no	brain glioblastoma multiforme; pancreatic ductal adenocarcinoma	Q9P273	Teneurin-3
+TENT5D	Cancer-testis-like	0	0		yes			
+TEPP	Cancer-testis-like	0	0		yes			
+TERB1	Cancer-testis-like	0	0		yes			
+TERB2	Cancer-testis-like	0	0		yes			
+TERT	T-cell antigen	262	24	I,II	no	lung non-small cell carcinoma; prostate cancer; cancer	O14746	Telomerase reverse transcriptase
+TESMIN	Cancer-testis-like	0	0		yes			
+TEX101	Cancer-testis-like	0	0		yes			
+TEX12	Cancer-testis-like	0	0		yes			
+TEX13A	Cancer-testis-like	0	0		yes			
+TEX13C	Cancer-testis-like	0	0		yes			
+TEX13D	Cancer-testis-like	0	0		yes			
+TEX14	Cancer-testis-like	0	0		yes			
+TEX15	Cancer-testis-like	0	0		yes			
+TEX19	Cancer-testis-like	0	0		yes			
+TEX22	Cancer-testis-like	0	0		yes			
+TEX26	Cancer-testis-like	0	0		yes			
+TEX28	Cancer-testis-like	0	0		yes			
+TEX29	Cancer-testis-like	0	0		yes			
+TEX30	Cancer-testis-like	0	0		yes			
+TEX33	Cancer-testis-like	0	0		yes			
+TEX35	Cancer-testis-like	0	0		yes			
+TEX36	Cancer-testis-like	0	0		yes			
+TEX37	Cancer-testis-like	0	0		yes			
+TEX38	Cancer-testis-like	0	0		yes			
+TEX43	Cancer-testis-like	0	0		yes			
+TEX44	Cancer-testis-like	0	0		yes			
+TEX45	Cancer-testis-like	0	0		yes			
+TEX46	Cancer-testis-like	0	0		yes			
+TEX47	Cancer-testis-like	0	0		yes			
+TEX48	Cancer-testis-like	0	0		yes			
+TEX49	Cancer-testis-like	0	0		yes			
+TEX50	Cancer-testis-like	0	0		yes			
+TEX51	Cancer-testis-like	0	0		yes			
+TEX53	Cancer-testis-like	0	0		yes			
+TEX54	Cancer-testis-like	0	0		yes			
+TEX55	Cancer-testis-like	0	0		yes			
+TF	T-cell antigen	1	1	I	no	brain glioma	P02787	Serotransferrin
+TFDP3	Cancer-testis-like	0	0		yes			
+TFG	T-cell antigen	1	1	II	no	skin melanoma	Q92734	Protein TFG
+TFIP11	T-cell antigen	1	1	I	no	pancreatic ductal adenocarcinoma	Q9UBB9	Tuftelin-interacting protein 11
+TFRC	T-cell antigen	2	1	II	no	chronic lymphocytic leukemia	P02786	Transferrin receptor protein 1
+TG	T-cell antigen	2	2	I	no	pancreatic ductal adenocarcinoma; prostate cancer	P01266	Thyroglobulin
+TGFB2	T-cell antigen	1	1	I	no	glioblastoma	P61812	Transforming growth factor beta-2 proprotein
+TGFBR2	T-cell antigen	2	1	I	no	colorectal cancer	P37173	TGF-beta receptor type-2
+TGIF2LX	Cancer-testis-like	0	0		yes			
+TGIF2LY	Cancer-testis-like	0	0		yes			
+TGS1	T-cell antigen	1	1	II	no	skin melanoma	Q96RS0	Trimethylguanosine synthase
+THEG	Cancer-testis-like	0	0		yes			
+THEGL	Cancer-testis-like	0	0		yes			
+TIGD3	T-cell antigen	2	1	I,II	no	stomach cancer	Q6B0B8	Tigger transposable element-derived protein 3
+TIMCC	T-cell antigen	1	1	I	no	skin melanoma	Q96C01	TIM double twin CX3C motif protein
+TIMD4	Cancer-testis-like	0	0		yes			
+TKT	T-cell antigen	8	1	I	no	brain glioma	P29401	Transketolase
+TKTL1	Cancer-testis-like	0	0		yes			
+TKTL2	Cancer-testis-like	0	0		yes			
+TLE4	T-cell antigen	2	1	I	no	brain glioblastoma multiforme	Q04727-4	Isoform 4 of Transducin-like enhancer protein 4
+TLR9	T-cell antigen	1	1	I	no	chronic lymphocytic leukemia	Q9NR96	Toll-like receptor 9
+TMC8	T-cell antigen	1	1		no	pancreatic ductal adenocarcinoma	Q8IU68	Transmembrane channel-like protein 8
+TMCO1	T-cell antigen	1	1	I	no	skin melanoma	Q9UM00	Calcium load-activated calcium channel
+TMCO2	Cancer-testis T-cell antigen	2	1	I	yes	skin melanoma	Q7Z6W1	Transmembrane and coiled-coil domain-containing protein 2
+TMCO5A	Cancer-testis-like	0	0		yes			
+TMDD1	Cancer-testis-like	0	0		yes			
+TMED4	T-cell antigen	1	1	I	no	chronic lymphocytic leukemia	Q7Z7H5	Transmembrane emp24 domain-containing protein 4
+TMEFF1	Cancer-testis-like	0	0		yes			
+TMEM168	T-cell antigen	3	1		no	pancreatic ductal adenocarcinoma	Q9H0V1	Transmembrane protein 168
+TMEM190	Cancer-testis-like	0	0		yes			
+TMEM191B	Cancer-testis-like	0	0		yes			
+TMEM191C	Cancer-testis-like	0	0		yes			
+TMEM202	Cancer-testis-like	0	0		yes			
+TMEM210	Cancer-testis-like	0	0		yes			
+TMEM217B	Cancer-testis-like	0	0		yes			
+TMEM225	Cancer-testis-like	0	0		yes			
+TMEM225B	Cancer-testis-like	0	0		yes			
+TMEM231	T-cell antigen	2	1	I	no	glioblastoma	Q9H6L2	Transmembrane protein 231
+TMEM232	Cancer-testis-like	0	0		yes			
+TMEM239	Cancer-testis-like	0	0		yes			
+TMEM247	Cancer-testis-like	0	0		yes			
+TMEM249	Cancer-testis-like	0	0		yes			
+TMEM255A	T-cell antigen	1	1	I	no	glioblastoma	Q5JRV8	Transmembrane protein 255A
+TMEM262	Cancer-testis-like	0	0		yes			
+TMEM270	Cancer-testis-like	0	0		yes			
+TMEM31	Cancer-testis-like	0	0		yes			
+TMEM74B	T-cell antigen	2	1	I	no	skin melanoma	Q9NUR3	Transmembrane protein 74B
+TMEM89	Cancer-testis-like	0	0		yes			
+TMEM95	Cancer-testis-like	0	0		yes			
+TMIGD3	Cancer-testis-like	0	0		yes			
+TMPRSS12	Cancer-testis-like	0	0		yes			
+TMPRSS6	T-cell antigen	1	1		no	pancreatic ductal adenocarcinoma	Q8IU80	Transmembrane protease serine 6
+TMPRSS9	Cancer-testis-like	0	0		yes			
+TMSB10	T-cell antigen	4	2	I,II	no	pancreatic ductal adenocarcinoma; skin melanoma	P63313	Thymosin beta-10
+TNC	T-cell antigen	6	3	I,II	no	glioblastoma; oligodendroglioma	P24821	Tenascin
+TNFRSF17	T-cell antigen	3	1	I	no	multiple myeloma	Q02223	Tumor necrosis factor receptor superfamily member 17
+TNFSF14	T-cell antigen	1	1		no	colorectal cancer	O43557	Tumor necrosis factor ligand superfamily member 14
+TNP1	Cancer-testis-like	0	0		yes			
+TNP2	Cancer-testis-like	0	0		yes			
+TNRC6A	T-cell antigen	1	1	I	no	ovarian cancer	Q8NDV7	Trinucleotide repeat-containing gene 6A protein
+TOMM20L	Cancer-testis-like	0	0		yes			
+TOMM34	T-cell antigen	3	2	I	no	colorectal adenocarcinoma; colorectal cancer	Q15785	Mitochondrial import receptor subunit TOM34
+TOP2A	T-cell antigen	5	3	I	no	ovarian cancer; melanoma; prostate cancer	P11388	DNA topoisomerase 2-alpha
+TOPAZ1	Cancer-testis-like	0	0		yes			
+TP53	T-cell antigen	52	24	I,II	no	head and neck squamous cell carcinoma; breast cancer; colorectal cancer	P04637	Cellular tumor antigen p53
+TP53I11	T-cell antigen	1	1	I	no	chronic lymphocytic leukemia	O14683	Tumor protein p53-inducible protein 11
+TP53TG3	Cancer-testis-like	0	0		yes			
+TP53TG3E	Cancer-testis-like	0	0		yes			
+TP53TG3F	Cancer-testis-like	0	0		yes			
+TP53TG5	Cancer-testis-like	0	0		yes			
+TPBG	T-cell antigen	53	3	I,II	no	colorectal cancer; clear cell renal cell carcinoma; kidney clear cell sarcoma	Q13641	Trophoblast glycoprotein
+TPD52L3	Cancer-testis-like	0	0		yes			
+TPI1	T-cell antigen	4	2	II	no	skin melanoma	P60174	Triosephosphate isomerase
+TPPP2	Cancer-testis-like	0	0		yes			
+TPRX1	Cancer-testis-like	0	0		yes			
+TPTE	Cancer-testis-like	0	0		yes			
+TPTE2	Cancer-testis-like	0	0		yes			
+TRAM1	T-cell antigen	1	1	I	no	head and neck squamous cell carcinoma	Q15629	Translocating chain-associated membrane protein 1
+TRAPPC11	T-cell antigen	2	1	I	no	pancreatic ductal adenocarcinoma	Q7Z392	Trafficking protein particle complex subunit 11
+TRBV23-1	T-cell antigen	1	1		no	pancreatic ductal adenocarcinoma	A0A0A0MS06	Probable non-functional T cell receptor beta variable 23-1
+TRBV6-7	Cancer-testis-like	0	0		yes			
+TRBV7-1	Cancer-testis-like	0	0		yes			
+TRGC1	T-cell antigen	22	3	I,II	no	prostate cancer; breast cancer	A2JGV3	T-cell receptor gamma alternate reading frame protein
+TRIM17	Cancer-testis-like	0	0		yes			
+TRIM36	Cancer-testis-like	0	0		yes			
+TRIM40	Cancer-testis-like	0	0		yes			
+TRIM42	Cancer-testis-like	0	0		yes			
+TRIM60	Cancer-testis-like	0	0		yes			
+TRIM68	T-cell antigen	2	1	I	no	skin melanoma	Q6AZZ1	E3 ubiquitin-protein ligase TRIM68
+TRIM69	Cancer-testis-like	0	0		yes			
+TRIM71	Cancer-testis-like	0	0		yes			
+TRIML1	Cancer-testis-like	0	0		yes			
+TRIML2	Cancer-testis-like	0	0		yes			
+TRIOBP	T-cell antigen	1	1	I	no	melanoma	Q9H2D6	TRIO and F-actin-binding protein
+TRIP12	T-cell antigen	1	1		no	pancreatic ductal adenocarcinoma	Q14669	E3 ubiquitin-protein ligase TRIP12
+TRO	T-cell antigen	2	1	I	no	ovarian cancer	Q12816	Trophinin
+TRPC5OS	Cancer-testis-like	0	0		yes			
+TRPM8	T-cell antigen	2	1	I	no	prostate cancer	Q7Z2W7	Transient receptor potential cation channel subfamily M member 8
+TRRAP	T-cell antigen	4	2	I	no	pancreatic ductal adenocarcinoma; chronic myeloid leukemia	Q9Y4A5	Transformation/transcription domain-associated protein
+TSACC	Cancer-testis-like	0	0		yes			
+TSBP1	Cancer-testis-like	0	0		yes			
+TSC1	T-cell antigen	1	1		no	brain glioblastoma multiforme	Q92574	Hamartin
+TSGA10	Cancer-testis-like	0	0		yes			
+TSGA10IP	Cancer-testis-like	0	0		yes			
+TSGA13	Cancer-testis-like	0	0		yes			
+TSKS	Cancer-testis-like	0	0		yes			
+TSPAN16	Cancer-testis-like	0	0		yes			
+TSPAN7	T-cell antigen	2	1	I	no	lung adenocarcinoma	P41732	Tetraspanin-7
+TSPY1	Cancer-testis-like	0	0		yes			
+TSPY10	Cancer-testis-like	0	0		yes			
+TSPY2	Cancer-testis-like	0	0		yes			
+TSPY3	Cancer-testis-like	0	0		yes			
+TSPY4	Cancer-testis-like	0	0		yes			
+TSPY8	Cancer-testis-like	0	0		yes			
+TSPY9	Cancer-testis-like	0	0		yes			
+TSPYL6	Cancer-testis-like	0	0		yes			
+TSSK1B	Cancer-testis-like	0	0		yes			
+TSSK2	Cancer-testis-like	0	0		yes			
+TSSK3	Cancer-testis-like	0	0		yes			
+TSSK4	Cancer-testis-like	0	0		yes			
+TSSK6	Cancer-testis-like	0	0		yes			
+TTC16	Cancer-testis-like	0	0		yes			
+TTC21A	Cancer-testis-like	0	0		yes			
+TTC23L	Cancer-testis-like	0	0		yes			
+TTC29	Cancer-testis-like	0	0		yes			
+TTC3	T-cell antigen	1	1		no	skin melanoma	P53804	E3 ubiquitin-protein ligase TTC3
+TTK	Cancer-testis T-cell antigen	19	5	I	yes	gallbladder cancer; esophagus squamous cell carcinoma; lung non-small cell carcinoma	P33981	Dual specificity protein kinase TTK
+TTLL10	Cancer-testis-like	0	0		yes			
+TTLL13	Cancer-testis-like	0	0		yes			
+TTLL2	Cancer-testis-like	0	0		yes			
+TTLL8	Cancer-testis-like	0	0		yes			
+TTN	T-cell antigen	32	4	I	no	melanoma; skin melanoma	Q8WZ42	Titin
+TUBA3C	Cancer-testis-like	0	0		yes			
+TUBA3D	Cancer-testis-like	0	0		yes			
+TUBA3E	Cancer-testis-like	0	0		yes			
+TUBB	T-cell antigen	2	1	I	no	prostate cancer	P07437	Tubulin beta chain
+TUBB4A	T-cell antigen	1	1	I	no	colorectal adenocarcinoma	P04350	Tubulin beta-4A chain
+TUBB8	T-cell antigen	4	1	I,II	no	brain glioblastoma multiforme	Q3ZCM7	Tubulin beta-8 chain
+TUBB8B	Cancer-testis-like	0	0		yes			
+TULP2	Cancer-testis-like	0	0		yes			
+TUT4	T-cell antigen	1	1	I	no	ovarian cancer	Q5TAX3	Terminal uridylyltransferase 4
+TXNDC11	T-cell antigen	13	1	I	no	colon adenocarcinoma	Q6PKC3	Thioredoxin domain-containing protein 11
+TXNDC2	Cancer-testis-like	0	0		yes			
+TXNDC8	Cancer-testis-like	0	0		yes			
+TYMS	T-cell antigen	6	1	I	no	cancer	P04818	Thymidylate synthase
+TYR	T-cell antigen	96	29	I,II	no	skin melanoma; melanoma; myeloid leukemia	P14679	Tyrosinase
+U2AF2	T-cell antigen	7	1	I	no	colon adenocarcinoma	P26368	Splicing factor U2AF 65 kDa subunit
+UBE2D2	T-cell antigen	1	1	I	no	skin melanoma	P62837	Ubiquitin-conjugating enzyme E2 D2
+UBE2I	T-cell antigen	1	1	I	no	skin melanoma	P63279	SUMO-conjugating enzyme UBC9
+UBE2L5	Cancer-testis-like	0	0		yes			
+UBE2U	Cancer-testis-like	0	0		yes			
+UBL4B	Cancer-testis-like	0	0		yes			
+UBQLN2	T-cell antigen	2	1	I	no	lung adenocarcinoma	Q9UHD9	Ubiquilin-2
+UBQLN3	Cancer-testis-like	0	0		yes			
+UBQLNL	Cancer-testis-like	0	0		yes			
+UBR1	T-cell antigen	2	1		no	pancreatic ductal adenocarcinoma	Q8IWV7	E3 ubiquitin-protein ligase UBR1
+UBXN11	T-cell antigen	8	2	I,II	no	colorectal cancer; skin melanoma	Q5T124	UBX domain-containing protein 11
+UHRF1	T-cell antigen	1	1	I	no	chronic myeloid leukemia	Q96T88	E3 ubiquitin-protein ligase UHRF1
+ULBP1	Cancer-testis-like	0	0		yes			
+URB1	T-cell antigen	2	1	I,II	no	stomach cancer	O60287	Nucleolar pre-ribosomal-associated protein 1
+USP11	T-cell antigen	1	1	I	no	glioblastoma	P51784	Ubiquitin carboxyl-terminal hydrolase 11
+USP32	T-cell antigen	1	1	I	no	chronic myeloid leukemia	Q8NFA0	Ubiquitin carboxyl-terminal hydrolase 32
+USP40	T-cell antigen	2	1	I	no	lung adenocarcinoma	Q9NVE5	Ubiquitin carboxyl-terminal hydrolase 40
+USP44	Cancer-testis-like	0	0		yes			
+USP50	Cancer-testis-like	0	0		yes			
+USP6	Cancer-testis-like	0	0		yes			
+UTF1	Cancer-testis-like	0	0		yes			
+UTP4	T-cell antigen	2	2	I,II	no	skin melanoma; melanoma	Q969X6	U3 small nucleolar RNA-associated protein 4 homolog
+VAC14	T-cell antigen	1	1	II	no	melanoma	Q08AM6	Protein VAC14 homolog
+VAMP3	T-cell antigen	2	1	II	no	chronic lymphocytic leukemia	Q15836	Vesicle-associated membrane protein 3
+VCX	Cancer-testis T-cell antigen	1	1		yes	brain glioblastoma multiforme	Q9H320	Variable charge X-linked protein 1
+VCX2	Cancer-testis-like	0	0		yes			
+VCX3A	Cancer-testis-like	0	0		yes			
+VCX3B	Cancer-testis-like	0	0		yes			
+VCY	Cancer-testis-like	0	0		yes			
+VCY1B	Cancer-testis-like	0	0		yes			
+VGF	T-cell antigen	1	1	I	no	skin melanoma	O15240	Neurosecretory protein VGF
+VIM	T-cell antigen	9	4	I,II	no	ovarian cancer; skin melanoma; colorectal cancer	P08670	Vimentin
+VPS13B	T-cell antigen	1	1	I	no	glioblastoma	Q7Z7G8	Intermembrane lipid transfer protein VPS13B
+VPS13C	T-cell antigen	5	1	I	no	Merkel cell carcinoma; viral infectious disease	Q709C8	Intermembrane lipid transfer protein VPS13C
+VPS4B	T-cell antigen	1	1	II	no	pancreatic ductal adenocarcinoma	O75351	Vacuolar protein sorting-associated protein 4B
+VPS8	T-cell antigen	4	1	I	no	lymphoid leukemia	Q8N3P4	Vacuolar protein sorting-associated protein 8 homolog
+VWA3B	Cancer-testis-like	0	0		yes			
+VWF	T-cell antigen	2	1	II	no	brain glioblastoma multiforme	P04275	von Willebrand factor
+WBP2NL	Cancer-testis-like	0	0		yes			
+WDFY4	T-cell antigen	1	1		no	pancreatic ductal adenocarcinoma	Q6ZS81	WD repeat- and FYVE domain-containing protein 4
+WDR46	T-cell antigen	13	2	I	no	skin melanoma; melanoma	O15213	WD repeat-containing protein 46
+WDR53	Cancer-testis-like	0	0		yes			
+WDR82	T-cell antigen	2	1	I	no	pancreatic ductal adenocarcinoma	Q6UXN9	WD repeat-containing protein 82
+WDR87	Cancer-testis T-cell antigen	9	2	I,II	yes	colon adenocarcinoma; brain glioblastoma multiforme	Q6ZQQ6	WD repeat-containing protein 87
+WDR88	Cancer-testis-like	0	0		yes			
+WDR97	Cancer-testis-like	0	0		yes			
+WFDC3	Cancer-testis-like	0	0		yes			
+WNK2	T-cell antigen	26	11	I	no	prostate adenocarcinoma; cervical squamous cell carcinoma; gastric adenocarcinoma	Q9Y3S1	Serine/threonine-protein kinase WNK2
+WT1	T-cell antigen	145	41	I,II	no	acute myeloid leukemia; ovarian Wilms' cancer; pancreatic ductal adenocarcinoma	P19544	Wilms tumor protein
+XAGE1A	Cancer-testis T-cell antigen	22	1	I,II	yes	lung adenocarcinoma	Q9HD64	X antigen family member 1
+XAGE1B	Cancer-testis T-cell antigen	22	1	I,II	yes	lung adenocarcinoma	Q9HD64	X antigen family member 1
+XAGE5	Cancer-testis-like	0	0		yes			
+XBP1	T-cell antigen	1	1	I	no	skin melanoma	P17861	X-box-binding protein 1
+XIAP	T-cell antigen	34	1	I,II	no	skin melanoma	P98170	E3 ubiquitin-protein ligase XIAP
+XKR3	Cancer-testis-like	0	0		yes			
+YBX2	Cancer-testis-like	0	0		yes			
+YPEL1	Cancer-testis-like	0	0		yes			
+ZAN	T-cell antigen	1	1		no	pancreatic ductal adenocarcinoma	Q9Y493	Zonadhesin
+ZBBX	Cancer-testis-like	0	0		yes			
+ZBTB32	Cancer-testis-like	0	0		yes			
+ZC2HC1B	Cancer-testis-like	0	0		yes			
+ZC3H11B	Cancer-testis-like	0	0		yes			
+ZC3H11C	Cancer-testis-like	0	0		yes			
+ZC3H14	Cancer-testis-like	0	0		yes			
+ZCCHC13	Cancer-testis-like	0	0		yes			
+ZCWPW1	Cancer-testis-like	0	0		yes			
+ZDHHC19	Cancer-testis-like	0	0		yes			
+ZFAND4	Cancer-testis-like	0	0		yes			
+ZFAND5	T-cell antigen	1	1	I	no	chronic lymphocytic leukemia	O76080	AN1-type zinc finger protein 5
+ZFHX3	T-cell antigen	1	1		no	pancreatic ductal adenocarcinoma	Q15911	Zinc finger homeobox protein 3
+ZFP36L1	T-cell antigen	1	1	II	no	glioblastoma	Q07352	mRNA decay activator protein ZFP36L1
+ZFR2	Cancer-testis-like	0	0		yes			
+ZHX2	T-cell antigen	1	1	I	no	melanoma	Q9Y6X8	Zinc fingers and homeoboxes protein 2
+ZIC4	T-cell antigen	1	1		no	pancreatic ductal adenocarcinoma	Q8N9L1	Zinc finger protein ZIC 4
+ZMYM4	T-cell antigen	1	1	I	no	skin melanoma	Q5VZL5	Zinc finger MYM-type protein 4
+ZMYND10	Cancer-testis-like	0	0		yes			
+ZMYND15	Cancer-testis-like	0	0		yes			
+ZNF100	T-cell antigen	1	1		no	pancreatic ductal adenocarcinoma	Q8IYN0	Zinc finger protein 100
+ZNF264	T-cell antigen	1	1		no	pancreatic ductal adenocarcinoma	O43296	Zinc finger protein 264
+ZNF273	T-cell antigen	1	1		no	pancreatic ductal adenocarcinoma	Q14593	Zinc finger protein 273
+ZNF292	T-cell antigen	1	1		no	lung squamous cell carcinoma	O60281	Zinc finger protein 292
+ZNF3	T-cell antigen	1	1	I	no	glioblastoma	P17036	Zinc finger protein 3
+ZNF385C	T-cell antigen	1	1		no	pancreatic ductal adenocarcinoma	Q66K41	Zinc finger protein 385C
+ZNF395	T-cell antigen	23	3	I	no	myxofibrosarcoma; chondrosarcoma; osteosarcoma	Q9H8N7	Zinc finger protein 395
+ZNF407	T-cell antigen	1	1		no	pancreatic ductal adenocarcinoma	Q9C0G0	Zinc finger protein 407
+ZNF423	T-cell antigen	2	1		no	pancreatic ductal adenocarcinoma	A0A087WV99,Q2M1K9	Zinc finger protein 423
+ZNF43	T-cell antigen	1	1		no	pancreatic ductal adenocarcinoma	P17038	Zinc finger protein 43
+ZNF473	Cancer-testis-like	0	0		yes			
+ZNF474	Cancer-testis-like	0	0		yes			
+ZNF479	Cancer-testis-like	0	0		yes			
+ZNF483	T-cell antigen	5	1	I	no	Merkel cell carcinoma; viral infectious disease	Q8TF39	Zinc finger protein 483
+ZNF493	T-cell antigen	1	1		no	pancreatic ductal adenocarcinoma	Q6ZR52	Zinc finger protein 493
+ZNF521	T-cell antigen	1	1		no	pancreatic ductal adenocarcinoma	Q96K83	Zinc finger protein 521
+ZNF534	Cancer-testis-like	0	0		yes			
+ZNF541	Cancer-testis T-cell antigen	2	1	I	yes	hepatocellular carcinoma	Q9H0D2	Zinc finger protein 541
+ZNF560	Cancer-testis-like	0	0		yes			
+ZNF568	T-cell antigen	5	1	I	no	Merkel cell carcinoma; viral infectious disease	C9JZ58	Zinc finger protein 568
+ZNF626	T-cell antigen	2	1		no	pancreatic ductal adenocarcinoma	Q68DY1	Zinc finger protein 626
+ZNF679	Cancer-testis-like	0	0		yes			
+ZNF683	Cancer-testis-like	0	0		yes			
+ZNF709	Cancer-testis-like	0	0		yes			
+ZNF722	Cancer-testis-like	0	0		yes			
+ZNF723	Cancer-testis-like	0	0		yes			
+ZNF728	Cancer-testis-like	0	0		yes			
+ZNF729	Cancer-testis-like	0	0		yes			
+ZNF764	T-cell antigen	1	1	II	no	brain glioblastoma multiforme	Q96H86	Zinc finger protein 764
+ZNF785	T-cell antigen	1	1		no	pancreatic ductal adenocarcinoma	A8K8V0	Zinc finger protein 785
+ZNF860	T-cell antigen	1	1		no	pancreatic ductal adenocarcinoma	A6NHJ4	Zinc finger protein 860
+ZNF878	T-cell antigen	1	1	I	no	melanoma	C9JN71	Zinc finger protein 878
+ZNF99	Cancer-testis-like	0	0		yes			
+ZNRF4	Cancer-testis-like	0	0		yes			
+ZPBP	Cancer-testis-like	0	0		yes			
+ZPBP2	Cancer-testis-like	0	0		yes			
+ZSCAN5B	Cancer-testis-like	0	0		yes			
+ZSWIM2	Cancer-testis-like	0	0		yes			
+ZZEF1	T-cell antigen	1	1	II	no	stomach cancer	O43149	Zinc finger ZZ-type and EF-hand domain-containing protein 1

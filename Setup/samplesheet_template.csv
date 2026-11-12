@@ -1,0 +1,35 @@
+group_id,subject_id,sample_id,sample_type,sequence_type,filetype,info,filepath
+# ---------------------------------------------------------------------------
+# nf-core/oncoanalyser samplesheet template
+#
+# Required columns:
+#   group_id      - Unique identifier for the analysis group (e.g. patient + sequencing type)
+#   subject_id    - Patient/subject identifier
+#   sample_id     - Unique sample identifier
+#   sample_type   - tumor | normal
+#   sequence_type - dna | rna
+#   filetype      - bam | cram | fastq
+#   info          - Additional metadata for FASTQ inputs, e.g. library_id:S1;lane:001
+#   filepath      - Absolute path to file (BAM/CRAM) or comma-separated paths for paired FASTQs
+#
+# Examples below — replace with your actual paths
+# ---------------------------------------------------------------------------
+
+# --- WGS paired tumor/normal (BAM input) ------------------------------------
+PATIENT1_WGS,PATIENT1,PATIENT1-N,normal,dna,bam,/cluster/projects/pughlab/data/PATIENT1/PATIENT1-N.dna.bam
+PATIENT1_WGS,PATIENT1,PATIENT1-T,tumor,dna,bam,/cluster/projects/pughlab/data/PATIENT1/PATIENT1-T.dna.bam
+
+# --- WGS + WTS (WGTS) paired tumor/normal (BAM input) ----------------------
+PATIENT2_WGTS,PATIENT2,PATIENT2-N,normal,dna,bam,/cluster/projects/pughlab/data/PATIENT2/PATIENT2-N.dna.bam
+PATIENT2_WGTS,PATIENT2,PATIENT2-T,tumor,dna,bam,/cluster/projects/pughlab/data/PATIENT2/PATIENT2-T.dna.bam
+PATIENT2_WGTS,PATIENT2,PATIENT2-T-RNA,tumor,rna,bam,/cluster/projects/pughlab/data/PATIENT2/PATIENT2-T.rna.bam
+
+# --- Tumor-only WGS (no matched normal) -------------------------------------
+PATIENT3_WGS,PATIENT3,PATIENT3-T,tumor,dna,bam,/cluster/projects/pughlab/data/PATIENT3/PATIENT3-T.dna.bam
+
+# --- Targeted/custom panel (tumor-only DNA BAM) ------------------------------
+PATIENT5_PANEL,PATIENT5,PATIENT5-T,tumor,dna,bam,/cluster/projects/pughlab/data/PATIENT5/PATIENT5-T.panel.bam
+
+# --- FASTQ input (paired-end) -----------------------------------------------
+PATIENT4_WGS,PATIENT4,PATIENT4-N,normal,dna,fastq,library_id:S1;lane:001,/cluster/projects/pughlab/data/PATIENT4/PATIENT4-N_R1.fastq.gz;/cluster/projects/pughlab/data/PATIENT4/PATIENT4-N_R2.fastq.gz
+PATIENT4_WGS,PATIENT4,PATIENT4-T,tumor,dna,fastq,library_id:S2;lane:001,/cluster/projects/pughlab/data/PATIENT4/PATIENT4-T_R1.fastq.gz;/cluster/projects/pughlab/data/PATIENT4/PATIENT4-T_R2.fastq.gz

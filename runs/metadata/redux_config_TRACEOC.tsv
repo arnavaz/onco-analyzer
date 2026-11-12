@@ -1,0 +1,9 @@
+fastq file name	sample id	tissue type	library type	donor_id	tissue origin
+/cluster/projects/mohccn/Sandbox/LISA_TMP/script/Redux_TRACEOC/output/OV-P-02/TRACEOC_0002_01_LB02-01.redux.bam	OV-P-02-Tumor	primary tumor	wg	OV-P-02	primary
+/cluster/projects/mohccn/Sandbox/LISA_TMP/script/Redux_TRACEOC/output/OV-P-02/TRACEOC_0002_02_LB02-01.redux.bam	OV-P-02-Normal	r	wg	OV-P-02	blood
+/cluster/projects/mohccn/Sandbox/LISA_TMP/script/Redux_TRACEOC/output/OV-P-02/TRACEOC_0002_03_LB01-01.redux.bam	OV-P-02-T0	plasma	pg	OV-P-02	Pl
+/cluster/projects/mohccn/Sandbox/LISA_TMP/script/Redux_TRACEOC/output/OV-P-02/TRACEOC_0002_04_LB01-01.redux.bam	OV-P-02-T1	plasma	pg	OV-P-02	Pl
+/cluster/projects/pughlab/myeloma/projects/MM_cell_drugs/WGS_Pipeline/HARTWIG/SAGE_TRACEOC/OV-P-10/TRACEOC_0010_01_LB02-01.redux.bam	OV-P-10-Tumor	primary tumor	wg	OV-P-10	primary
+/cluster/projects/pughlab/myeloma/projects/MM_cell_drugs/WGS_Pipeline/HARTWIG/SAGE_TRACEOC/OV-P-10/TRACEOC_0010_02_LB02-01.redux.bam	OV-P-10-Normal	r	wg	OV-P-10	blood
+/cluster/projects/pughlab/myeloma/projects/MM_cell_drugs/WGS_Pipeline/HARTWIG/SAGE_TRACEOC/OV-P-10/TRACEOC_0010_03_LB01-01.redux.bam	OV-P-10-T0	plasma	pg	OV-P-10	Pl
+/cluster/projects/pughlab/myeloma/projects/MM_cell_drugs/WGS_Pipeline/HARTWIG/SAGE_TRACEOC/OV-P-10/TRACEOC_0010_04_LB01-01.redux.bam	OV-P-10-T1	plasma	pg	OV-P-10	Pl
